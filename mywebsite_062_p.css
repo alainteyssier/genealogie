@@ -1,0 +1,63 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc266              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc267              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e5              { /* mywebsite052003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e4              { /* mywebsite062002.jpg */
+	position        : absolute;
+	left            : 120.00pt;
+	top             : 123.75pt;
+	width           : 253.50pt;
+	height          : 190.50pt;
+	}
+div#e3              { /* Avec sa femme Doris, sa ... */
+	position        : absolute;
+	left            : 150.75pt;
+	top             : 347.25pt;
+	width           : 215.25pt;
+	height          :  56.25pt;
+	}
+img#e2              { /* mywebsite062001.jpg */
+	position        : absolute;
+	left            : 467.25pt;
+	top             :  88.50pt;
+	width           : 181.50pt;
+	height          : 261.75pt;
+	}
+div#e1              { /* Et quelques années plus ... */
+	position        : absolute;
+	left            : 412.50pt;
+	top             : 377.25pt;
+	width           : 318.75pt;
+	height          : 110.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

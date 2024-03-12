@@ -1,0 +1,214 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc113              { /* Common */
+	border          :   0.00pt none #ff3366;
+	}
+.cc114              { /* Common */
+	font            : italic bold 18pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc115              { /* Common */
+	font            : bold 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc116              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc117              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	}
+.cc118              { /* Common */
+	font            : bold 18pt 'Times New Roman', Book, Georgia, serif;
+	color           : #ff00ff;
+	}
+.cc119              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+span#e23            { /* mywebsite021005.gif */
+	background      : transparent url(mywebsite021005.gif) no-repeat top left;
+	position        : absolute;
+	left            :  78.75pt;
+	top             :  15.00pt;
+	width           : 618.75pt;
+	height          :  27.00pt;
+	}
+div#e22             { /* &nbsp;&nbsp;GENEALOGIE  ... */
+	position        : absolute;
+	left            :  90.75pt;
+	top             :  16.50pt;
+	width           : 574.50pt;
+	height          :  28.50pt;
+	}
+img#e21             { /* mywebsite007007.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 142.50pt;
+	width           :  57.00pt;
+	height          :  30.75pt;
+	}
+img#e20             { /* mywebsite007006.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 202.50pt;
+	width           :  58.50pt;
+	height          :  29.25pt;
+	}
+img#e19             { /* mywebsite007005.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 261.75pt;
+	width           :  58.50pt;
+	height          :  28.50pt;
+	}
+div#e18             { /* MENU */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 150.00pt;
+	width           :  60.75pt;
+	height          :  17.25pt;
+	}
+div#e17             { /* SUITE */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 210.00pt;
+	width           :  57.00pt;
+	height          :  26.25pt;
+	}
+div#e16             { /* RETOUR */
+	position        : absolute;
+	left            :   6.75pt;
+	top             : 267.00pt;
+	width           :  68.25pt;
+	height          :  28.50pt;
+	}
+img#e15             { /* mywebsite007005.gif */
+	position        : absolute;
+	left            :  12.00pt;
+	top             : 322.50pt;
+	width           :  58.50pt;
+	height          :  28.50pt;
+	}
+div#e14             { /* DOC */
+	position        : absolute;
+	left            :  23.25pt;
+	top             : 330.00pt;
+	width           :  35.25pt;
+	height          :  26.25pt;
+	}
+img#e13             { /* mywebsite007004.gif */
+	position        : absolute;
+	left            :  12.00pt;
+	top             : 374.25pt;
+	width           :  70.50pt;
+	height          :  31.50pt;
+	}
+div#e12             { /* Ascendance */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 383.25pt;
+	width           :  60.00pt;
+	height          :  14.25pt;
+	}
+img#e11             { /* mywebsite007003.gif */
+	position        : absolute;
+	left            :  10.50pt;
+	top             : 421.50pt;
+	width           :  72.75pt;
+	height          :  31.50pt;
+	}
+div#e10             { /* Déscendance */
+	position        : absolute;
+	left            :  18.00pt;
+	top             : 429.75pt;
+	width           :  69.75pt;
+	height          :  15.00pt;
+	}
+div#e9              { /* Gustave-Jules Teyssier e... */
+	background-color: #ffffff;
+	position        : absolute;
+	left            : 139.50pt;
+	top             :  62.25pt;
+	width           : 525.00pt;
+	height          :  36.75pt;
+	}
+img#e8              { /* mywebsite021004.jpg */
+	position        : absolute;
+	left            : 164.25pt;
+	top             : 108.00pt;
+	width           : 192.00pt;
+	height          : 140.25pt;
+	}
+div#e7              { /* Exposition universelle d... */
+	position        : absolute;
+	left            : 189.00pt;
+	top             : 258.00pt;
+	width           : 210.75pt;
+	height          :  26.25pt;
+	}
+div#e6              { /* Ouverture du Moulin Roug... */
+	position        : absolute;
+	left            : 487.50pt;
+	top             : 260.25pt;
+	width           : 206.25pt;
+	height          :  27.00pt;
+	}
+div#e5              { /* Création de Michelin à C... */
+	position        : absolute;
+	left            : 156.00pt;
+	top             : 499.50pt;
+	width           : 277.50pt;
+	height          :  25.50pt;
+	}
+div#e4              { /* Naissance de Charlie Cha... */
+	position        : absolute;
+	left            : 492.75pt;
+	top             : 496.50pt;
+	width           : 200.25pt;
+	height          :  27.75pt;
+	}
+img#e3              { /* mywebsite021003.jpg */
+	position        : absolute;
+	left            : 442.50pt;
+	top             : 104.25pt;
+	width           : 232.50pt;
+	height          : 146.25pt;
+	}
+img#e2              { /* mywebsite021002.jpg */
+	position        : absolute;
+	left            : 169.50pt;
+	top             : 322.50pt;
+	width           : 222.00pt;
+	height          : 166.50pt;
+	}
+img#e1              { /* mywebsite021001.jpg */
+	position        : absolute;
+	left            : 476.25pt;
+	top             : 321.00pt;
+	width           : 213.00pt;
+	height          : 163.50pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,49 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc188              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc189              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e3              { /* mywebsite033002.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e2              { /* mywebsite033001.jpg */
+	position        : absolute;
+	left            : 182.25pt;
+	top             : 337.50pt;
+	width           : 198.00pt;
+	height          : 144.00pt;
+	}
+div#e1              { /* Mon faire part de naissa... */
+	position        : absolute;
+	left            : 195.00pt;
+	top             : 499.50pt;
+	width           : 199.50pt;
+	height          :  20.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

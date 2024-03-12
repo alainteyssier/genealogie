@@ -1,0 +1,89 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc201              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc202              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc203              { /* Common */
+	font            : bold 12pt 'Courier New', monospace;
+	color           : #000000;
+	}
+.cc204              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #ff0000;
+	}
+.cc205              { /* Common */
+	font            : bold 14pt 'Arial', Helvetica, sans-serif;
+	color           : #00ff00;
+	}
+img#e7              { /* mywebsite038002.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+div#e6              { /* Et en 1968, ce fut la na... */
+	position        : absolute;
+	left            : 376.50pt;
+	top             : 446.25pt;
+	width           : 284.25pt;
+	height          :  74.25pt;
+	}
+div#e5              { /* Et puis, mariage le 3 dé... */
+	position        : absolute;
+	left            : 135.00pt;
+	top             : 106.50pt;
+	width           : 318.75pt;
+	height          : 140.25pt;
+	}
+div#e4              { /* mariage religieux  */
+	position        : absolute;
+	left            : 180.00pt;
+	top             : 275.25pt;
+	width           : 120.00pt;
+	height          :  25.50pt;
+	}
+div#e3              { /* mariage civil  */
+	position        : absolute;
+	left            : 348.75pt;
+	top             : 275.25pt;
+	width           : 105.75pt;
+	height          :  20.25pt;
+	}
+div#e2              { /* écoutez  */
+	position        : absolute;
+	left            : 267.00pt;
+	top             : 228.75pt;
+	width           :  78.75pt;
+	height          :  32.25pt;
+	}
+img#e1              { /* mywebsite038001.jpg */
+	position        : absolute;
+	left            : 165.75pt;
+	top             : 326.25pt;
+	width           : 194.25pt;
+	height          : 214.50pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

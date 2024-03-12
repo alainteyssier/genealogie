@@ -1,0 +1,63 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc337              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc338              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e5              { /* mywebsite084003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+div#e4              { /* N'ayant pas été très loi... */
+	position        : absolute;
+	left            : 165.00pt;
+	top             : 129.75pt;
+	width           : 443.25pt;
+	height          :  92.25pt;
+	}
+div#e3              { /* Puis, il a travaillé que... */
+	position        : absolute;
+	left            : 165.75pt;
+	top             : 259.50pt;
+	width           : 339.75pt;
+	height          :  74.25pt;
+	}
+div#e2              { /* Mais n'étant pas trop bo... */
+	position        : absolute;
+	left            : 158.25pt;
+	top             : 376.50pt;
+	width           : 330.75pt;
+	height          :  97.50pt;
+	}
+img#e1              { /* mywebsite088001.jpg */
+	position        : absolute;
+	left            : 518.25pt;
+	top             : 225.00pt;
+	width           : 206.25pt;
+	height          : 215.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

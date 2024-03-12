@@ -1,0 +1,159 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc227              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc228              { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc229              { /* Common */
+	font            : bold 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc230              { /* Common */
+	border          :   0.00pt none #00ffff;
+	}
+.cc231              { /* Common */
+	font            : bold 14pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e17             { /* mywebsite049008.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e16             { /* mywebsite049007.jpg */
+	position        : absolute;
+	left            : 144.00pt;
+	top             :  78.75pt;
+	width           : 124.50pt;
+	height          : 155.25pt;
+	}
+img#e15             { /* mywebsite049006.jpg */
+	position        : absolute;
+	left            : 345.75pt;
+	top             :  88.50pt;
+	width           : 130.50pt;
+	height          : 106.50pt;
+	}
+div#e14             { /* Lettre à mes parents dep... */
+	position        : absolute;
+	left            : 139.50pt;
+	top             : 244.50pt;
+	width           : 163.50pt;
+	height          :  32.25pt;
+	}
+div#e13             { /* Carte d'abonnement aux t... */
+	position        : absolute;
+	left            : 333.75pt;
+	top             : 210.75pt;
+	width           : 158.25pt;
+	height          :  41.25pt;
+	}
+img#e12             { /* mywebsite049005.jpg */
+	position        : absolute;
+	left            : 559.50pt;
+	top             :  75.75pt;
+	width           : 117.00pt;
+	height          : 143.25pt;
+	}
+div#e11             { /* Carte d'identité. 2000  */
+	position        : absolute;
+	left            : 551.25pt;
+	top             : 232.50pt;
+	width           : 133.50pt;
+	height          :  21.00pt;
+	}
+img#e10             { /* mywebsite049004.jpg */
+	position        : absolute;
+	left            : 143.25pt;
+	top             : 331.50pt;
+	width           : 146.25pt;
+	height          : 116.25pt;
+	}
+div#e9              { /* Livret de famille. 1966 */
+	position        : absolute;
+	left            : 150.00pt;
+	top             : 472.50pt;
+	width           : 126.00pt;
+	height          :  18.75pt;
+	}
+img#e8              { /* mywebsite049003.jpg */
+	position        : absolute;
+	left            : 558.00pt;
+	top             : 312.75pt;
+	width           : 113.25pt;
+	height          : 159.00pt;
+	}
+img#e7              { /* mywebsite049002.jpg */
+	position        : absolute;
+	left            : 331.50pt;
+	top             : 305.25pt;
+	width           : 186.00pt;
+	height          : 149.25pt;
+	}
+div#e6              { /* Permis de conduire. 1965... */
+	position        : absolute;
+	left            : 544.50pt;
+	top             : 490.50pt;
+	width           : 153.00pt;
+	height          :  24.00pt;
+	}
+img#e5              { /* mywebsite007005.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 261.75pt;
+	width           :  58.50pt;
+	height          :  28.50pt;
+	}
+div#e4              { /* RETOUR */
+	position        : absolute;
+	left            :   6.75pt;
+	top             : 267.00pt;
+	width           :  68.25pt;
+	height          :  28.50pt;
+	}
+div#e3              { /* Mes parents, mes frères ... */
+	position        : absolute;
+	left            : 348.75pt;
+	top             : 482.25pt;
+	width           : 179.25pt;
+	height          :  37.50pt;
+	}
+img#e2              { /* mywebsite049001.gif */
+	position        : absolute;
+	left            : 603.00pt;
+	top             : 517.50pt;
+	width           : 123.00pt;
+	height          :  42.75pt;
+	}
+div#e1              { /* SUITE  */
+	position        : absolute;
+	left            : 639.00pt;
+	top             : 526.50pt;
+	width           :  56.25pt;
+	height          :  25.50pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

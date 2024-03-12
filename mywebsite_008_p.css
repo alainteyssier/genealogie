@@ -1,0 +1,217 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc33               { /* Common */
+	border          :   0.00pt none #ff3366;
+	}
+.cc34               { /* Common */
+	font            : italic bold 18pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc35               { /* Common */
+	font            : bold 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc36               { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc37               { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	}
+.cc38               { /* Common */
+	font            : 14pt 'Arial', Helvetica, sans-serif;
+	color           : #ff0099;
+	}
+.cc39               { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc40               { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+span#e23            { /* mywebsite008004.gif */
+	background      : transparent url(mywebsite008004.gif) no-repeat top left;
+	position        : absolute;
+	left            :  78.75pt;
+	top             :  15.00pt;
+	width           : 618.75pt;
+	height          :  27.00pt;
+	}
+div#e22             { /* &nbsp;&nbsp;GENEALOGIE  ... */
+	position        : absolute;
+	left            :  90.75pt;
+	top             :  16.50pt;
+	width           : 574.50pt;
+	height          :  28.50pt;
+	}
+img#e21             { /* mywebsite007007.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 142.50pt;
+	width           :  57.00pt;
+	height          :  30.75pt;
+	}
+img#e20             { /* mywebsite007006.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 202.50pt;
+	width           :  58.50pt;
+	height          :  29.25pt;
+	}
+img#e19             { /* mywebsite007005.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 261.75pt;
+	width           :  58.50pt;
+	height          :  28.50pt;
+	}
+div#e18             { /* MENU */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 150.00pt;
+	width           :  60.75pt;
+	height          :  17.25pt;
+	}
+div#e17             { /* SUITE */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 210.00pt;
+	width           :  57.00pt;
+	height          :  26.25pt;
+	}
+div#e16             { /* RETOUR */
+	position        : absolute;
+	left            :   6.75pt;
+	top             : 267.00pt;
+	width           :  68.25pt;
+	height          :  28.50pt;
+	}
+img#e15             { /* mywebsite007005.gif */
+	position        : absolute;
+	left            :  12.00pt;
+	top             : 322.50pt;
+	width           :  58.50pt;
+	height          :  28.50pt;
+	}
+div#e14             { /* DOC */
+	position        : absolute;
+	left            :  23.25pt;
+	top             : 330.00pt;
+	width           :  35.25pt;
+	height          :  26.25pt;
+	}
+img#e13             { /* mywebsite007004.gif */
+	position        : absolute;
+	left            :  12.00pt;
+	top             : 374.25pt;
+	width           :  70.50pt;
+	height          :  31.50pt;
+	}
+div#e12             { /* Ascendance */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 383.25pt;
+	width           :  60.00pt;
+	height          :  14.25pt;
+	}
+img#e11             { /* mywebsite007003.gif */
+	position        : absolute;
+	left            :  10.50pt;
+	top             : 422.25pt;
+	width           :  72.75pt;
+	height          :  31.50pt;
+	}
+div#e10             { /* Déscendance */
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 429.75pt;
+	width           :  69.75pt;
+	height          :  15.00pt;
+	}
+div#e9              { /* Il est né le 18 juin 185... */
+	position        : absolute;
+	left            : 180.00pt;
+	top             :  65.25pt;
+	width           : 422.25pt;
+	height          :  34.50pt;
+	}
+div#e8              { /* <DIV>C'est le règne de N... */
+	position        : absolute;
+	left            : 498.00pt;
+	top             : 336.00pt;
+	width           : 203.25pt;
+	height          :  23.25pt;
+	}
+div#e7              { /* Naissance aussi d'Arthur... */
+	position        : absolute;
+	left            : 237.00pt;
+	top             :  98.25pt;
+	width           : 237.75pt;
+	height          :  27.75pt;
+	}
+img#e6              { /* mywebsite008003.jpg */
+	position        : absolute;
+	left            : 507.00pt;
+	top             : 138.75pt;
+	width           : 119.25pt;
+	height          : 185.25pt;
+	}
+div#e5              { /* Omnibus Hypomobile */
+	position        : absolute;
+	left            : 206.25pt;
+	top             : 447.75pt;
+	width           :  77.25pt;
+	height          :  42.00pt;
+	}
+div#e4              { /* La mode vers 1850 */
+	position        : absolute;
+	left            : 197.25pt;
+	top             : 340.50pt;
+	width           : 153.00pt;
+	height          :  20.25pt;
+	}
+div#e3              { /* Moyens de locomotion à c... */
+	position        : absolute;
+	left            : 530.25pt;
+	top             : 431.25pt;
+	width           : 105.75pt;
+	height          :  74.25pt;
+	}
+img#e2              { /* mywebsite008002.jpg */
+	position        : absolute;
+	left            : 177.75pt;
+	top             : 133.50pt;
+	width           : 152.25pt;
+	height          : 200.25pt;
+	}
+img#e1              { /* mywebsite008001.jpg */
+	position        : absolute;
+	left            : 291.00pt;
+	top             : 382.50pt;
+	width           : 231.00pt;
+	height          : 158.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,77 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc214              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc215              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e7              { /* mywebsite037003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e6              { /* mywebsite042003.jpg */
+	position        : absolute;
+	left            : 153.75pt;
+	top             : 330.00pt;
+	width           : 146.25pt;
+	height          : 195.00pt;
+	}
+img#e5              { /* mywebsite042002.jpg */
+	position        : absolute;
+	left            : 168.00pt;
+	top             :  70.50pt;
+	width           : 212.25pt;
+	height          : 227.25pt;
+	}
+img#e4              { /* mywebsite042001.jpg */
+	position        : absolute;
+	left            : 439.50pt;
+	top             : 280.50pt;
+	width           : 254.25pt;
+	height          : 143.25pt;
+	}
+div#e3              { /* Me voici avec mes 4 peti... */
+	position        : absolute;
+	left            : 432.75pt;
+	top             : 115.50pt;
+	width           : 195.00pt;
+	height          :  92.25pt;
+	}
+div#e2              { /* Lucas, le fils à Marie-L... */
+	position        : absolute;
+	left            : 310.50pt;
+	top             : 457.50pt;
+	width           : 105.75pt;
+	height          :  56.25pt;
+	}
+div#e1              { /* Ici, sur le banc du pied... */
+	position        : absolute;
+	left            : 504.75pt;
+	top             : 442.50pt;
+	width           : 187.50pt;
+	height          :  72.00pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

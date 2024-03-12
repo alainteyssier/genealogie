@@ -1,0 +1,63 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc261              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc262              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e5              { /* mywebsite052003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e4              { /* mywebsite060002.jpg */
+	position        : absolute;
+	left            : 125.25pt;
+	top             : 102.00pt;
+	width           : 162.00pt;
+	height          : 279.75pt;
+	}
+div#e3              { /* Il se maria le 17 janvie... */
+	position        : absolute;
+	left            : 342.00pt;
+	top             : 131.25pt;
+	width           : 317.25pt;
+	height          :  74.25pt;
+	}
+img#e2              { /* mywebsite060001.jpg */
+	position        : absolute;
+	left            : 486.00pt;
+	top             : 231.00pt;
+	width           : 216.00pt;
+	height          : 305.25pt;
+	}
+div#e1              { /* Le 7 juin 1970 naissait ... */
+	position        : absolute;
+	left            : 241.50pt;
+	top             : 441.00pt;
+	width           : 180.75pt;
+	height          :  38.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,66 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc254              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc255              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc256              { /* Common */
+	border          :   1.50pt solid #000000;
+	}
+img#e5              { /* mywebsite052003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+div#e4              { /* Ses parents faisant part... */
+	position        : absolute;
+	left            : 373.50pt;
+	top             : 112.50pt;
+	width           : 317.25pt;
+	height          :  56.25pt;
+	}
+img#e3              { /* mywebsite057001.jpg */
+	position        : absolute;
+	left            : 114.75pt;
+	top             :  93.75pt;
+	width           : 220.50pt;
+	height          : 324.00pt;
+	}
+div#e2              { /* Ici, avec sa petite soeu... */
+	position        : absolute;
+	left            : 388.50pt;
+	top             : 208.50pt;
+	width           : 210.00pt;
+	height          :  38.25pt;
+	}
+div#e1              { /* La guerre de 1940 termin... */
+	position        : absolute;
+	left            : 390.00pt;
+	top             : 300.75pt;
+	width           : 294.75pt;
+	height          : 110.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

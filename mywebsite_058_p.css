@@ -1,0 +1,63 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc257              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc258              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e5              { /* mywebsite052003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e4              { /* mywebsite058002.jpg */
+	position        : absolute;
+	left            : 129.00pt;
+	top             :  87.00pt;
+	width           : 238.50pt;
+	height          : 192.00pt;
+	}
+div#e3              { /* Il fit sa communion sole... */
+	position        : absolute;
+	left            : 477.00pt;
+	top             : 103.50pt;
+	width           : 174.75pt;
+	height          : 164.25pt;
+	}
+img#e2              { /* mywebsite058001.jpg */
+	position        : absolute;
+	left            : 441.00pt;
+	top             : 333.75pt;
+	width           : 233.25pt;
+	height          : 199.50pt;
+	}
+div#e1              { /* Ses études se passèrent ... */
+	position        : absolute;
+	left            : 168.75pt;
+	top             : 405.00pt;
+	width           : 239.25pt;
+	height          :  74.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

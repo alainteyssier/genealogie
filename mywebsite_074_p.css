@@ -1,0 +1,80 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc299              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc300              { /* Common */
+	border          :   1.50pt solid #000000;
+	}
+.cc301              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e7              { /* mywebsite070003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e6              { /* mywebsite074003.jpg */
+	position        : absolute;
+	left            : 124.50pt;
+	top             :  78.75pt;
+	width           : 252.75pt;
+	height          : 157.50pt;
+	}
+img#e5              { /* mywebsite074002.jpg */
+	position        : absolute;
+	left            : 442.50pt;
+	top             :  87.00pt;
+	width           : 210.75pt;
+	height          : 317.25pt;
+	}
+div#e4              { /* Avec son grand-frère  Al... */
+	position        : absolute;
+	left            : 483.75pt;
+	top             : 427.50pt;
+	width           : 219.00pt;
+	height          :  20.25pt;
+	}
+div#e3              { /* La voici à l'école de Va... */
+	position        : absolute;
+	left            : 157.50pt;
+	top             : 262.50pt;
+	width           : 254.25pt;
+	height          :  20.25pt;
+	}
+img#e2              { /* mywebsite074001.jpg */
+	position        : absolute;
+	left            : 147.75pt;
+	top             : 332.25pt;
+	width           : 240.75pt;
+	height          : 150.75pt;
+	}
+div#e1              { /* Et là, avec Alain et Gér... */
+	position        : absolute;
+	left            : 164.25pt;
+	top             : 504.00pt;
+	width           : 231.00pt;
+	height          :  20.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

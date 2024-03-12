@@ -1,0 +1,108 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc183              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc184              { /* Common */
+	font            : 14pt 'Arial', Helvetica, sans-serif;
+	color           : #ff0000;
+	}
+.cc185              { /* Common */
+	border          :   0.75pt solid #000000;
+	}
+.cc186              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc187              { /* Common */
+	border          :   1.50pt solid #00ff00;
+	}
+img#e10             { /* mywebsite032005.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+div#e9              { /* Alain Teyssier est né le... */
+	position        : absolute;
+	left            : 156.75pt;
+	top             :  67.50pt;
+	width           : 451.50pt;
+	height          :  30.75pt;
+	}
+img#e8              { /* mywebsite032004.jpg */
+	position        : absolute;
+	left            : 179.25pt;
+	top             : 102.00pt;
+	width           : 173.25pt;
+	height          : 172.50pt;
+	}
+img#e7              { /* mywebsite032003.jpg */
+	position        : absolute;
+	left            : 441.75pt;
+	top             :  96.00pt;
+	width           : 228.00pt;
+	height          : 171.00pt;
+	}
+div#e6              { /* La deuxieme guerre mondi... */
+	position        : absolute;
+	left            : 177.75pt;
+	top             : 283.50pt;
+	width           : 201.75pt;
+	height          :  39.75pt;
+	}
+div#e5              { /* Naissance de Johnny Hall... */
+	position        : absolute;
+	left            : 463.50pt;
+	top             : 275.25pt;
+	width           : 212.25pt;
+	height          :  20.25pt;
+	}
+div#e4              { /* Saint Exupéry écrit son ... */
+	position        : absolute;
+	left            : 145.50pt;
+	top             : 528.00pt;
+	width           : 262.50pt;
+	height          :  20.25pt;
+	}
+div#e3              { /* La résistance s'organise */
+	position        : absolute;
+	left            : 506.25pt;
+	top             : 526.50pt;
+	width           : 176.25pt;
+	height          :  20.25pt;
+	}
+img#e2              { /* mywebsite032002.jpg */
+	position        : absolute;
+	left            : 156.00pt;
+	top             : 336.75pt;
+	width           : 176.25pt;
+	height          : 177.00pt;
+	}
+img#e1              { /* mywebsite032001.jpg */
+	position        : absolute;
+	left            : 456.00pt;
+	top             : 342.00pt;
+	width           : 237.75pt;
+	height          : 169.50pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

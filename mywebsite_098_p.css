@@ -1,0 +1,67 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc363              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc364              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc365              { /* Common */
+	font            : italic 12pt 'Arial', Helvetica, sans-serif;
+	color           : #0000ff;
+	}
+img#e5              { /* mywebsite096003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+div#e4              { /* Il est né le 11 février ... */
+	position        : absolute;
+	left            : 191.25pt;
+	top             :  67.50pt;
+	width           : 350.25pt;
+	height          : 150.75pt;
+	}
+img#e3              { /* mywebsite098001.jpg */
+	position        : absolute;
+	left            : 174.75pt;
+	top             : 317.25pt;
+	width           : 284.25pt;
+	height          : 182.25pt;
+	}
+div#e2              { /* Voici son acte de naissa... */
+	position        : absolute;
+	left            : 530.25pt;
+	top             : 381.00pt;
+	width           : 102.75pt;
+	height          :  38.25pt;
+	}
+div#e1              { /* Le moulinage consiste à ... */
+	position        : absolute;
+	left            : 191.25pt;
+	top             : 232.50pt;
+	width           : 379.50pt;
+	height          :  58.50pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

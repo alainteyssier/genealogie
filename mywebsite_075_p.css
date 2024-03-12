@@ -1,0 +1,63 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc302              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc303              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e5              { /* mywebsite070003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e4              { /* mywebsite075002.jpg */
+	position        : absolute;
+	left            : 144.75pt;
+	top             :  87.00pt;
+	width           : 203.25pt;
+	height          : 270.75pt;
+	}
+img#e3              { /* mywebsite075001.jpg */
+	position        : absolute;
+	left            : 375.75pt;
+	top             : 239.25pt;
+	width           : 326.25pt;
+	height          : 219.00pt;
+	}
+div#e2              { /* Et quelques années plus ... */
+	position        : absolute;
+	left            : 422.25pt;
+	top             : 157.50pt;
+	width           : 253.50pt;
+	height          :  56.25pt;
+	}
+div#e1              { /* En 1958 avec ses 3 frère... */
+	position        : absolute;
+	left            : 144.75pt;
+	top             : 387.00pt;
+	width           : 209.25pt;
+	height          :  56.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

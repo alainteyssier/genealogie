@@ -1,0 +1,105 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc272              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc273              { /* Common */
+	border          :   2.25pt solid #00ff00;
+	}
+.cc274              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc275              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #ff0000;
+	}
+img#e10             { /* mywebsite052003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e9              { /* mywebsite065004.jpg */
+	position        : absolute;
+	left            : 209.25pt;
+	top             :  60.00pt;
+	width           : 214.50pt;
+	height          : 161.25pt;
+	}
+img#e8              { /* mywebsite065003.jpg */
+	position        : absolute;
+	left            : 138.75pt;
+	top             : 324.75pt;
+	width           : 203.25pt;
+	height          : 152.25pt;
+	}
+img#e7              { /* mywebsite065002.jpg */
+	position        : absolute;
+	left            : 435.00pt;
+	top             : 339.75pt;
+	width           : 199.50pt;
+	height          : 130.50pt;
+	}
+div#e6              { /* Réunion de famille au Fr... */
+	position        : absolute;
+	left            : 172.50pt;
+	top             : 493.50pt;
+	width           : 162.00pt;
+	height          :  38.25pt;
+	}
+div#e5              { /* Un casse-croute au solei... */
+	position        : absolute;
+	left            : 450.00pt;
+	top             : 489.75pt;
+	width           : 211.50pt;
+	height          :  38.25pt;
+	}
+div#e4              { /* En 2005, pour le départ ... */
+	position        : absolute;
+	left            : 204.75pt;
+	top             : 234.00pt;
+	width           : 228.00pt;
+	height          :  38.25pt;
+	}
+div#e3              { /* Vidéo d'un repas chez Gé... */
+	position        : absolute;
+	left            : 630.75pt;
+	top             : 108.00pt;
+	width           :  88.50pt;
+	height          :  74.25pt;
+	}
+div#e2              { /* Cliquez pour voir cette ... */
+	position        : absolute;
+	left            : 485.25pt;
+	top             : 212.25pt;
+	width           : 124.50pt;
+	height          :  38.25pt;
+	}
+img#e1              { /* mywebsite065001.jpg */
+	position        : absolute;
+	left            : 460.50pt;
+	top             : 102.00pt;
+	width           : 151.50pt;
+	height          :  86.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

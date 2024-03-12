@@ -1,0 +1,77 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc313              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc314              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e7              { /* mywebsite070003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e6              { /* mywebsite078003.jpg */
+	position        : absolute;
+	left            : 131.25pt;
+	top             : 103.50pt;
+	width           : 223.50pt;
+	height          : 168.00pt;
+	}
+div#e5              { /* Colette et son mari José... */
+	position        : absolute;
+	left            : 136.50pt;
+	top             : 286.50pt;
+	width           : 216.00pt;
+	height          :  38.25pt;
+	}
+img#e4              { /* mywebsite078002.jpg */
+	position        : absolute;
+	left            : 429.00pt;
+	top             : 105.00pt;
+	width           : 222.00pt;
+	height          : 167.25pt;
+	}
+img#e3              { /* mywebsite078001.jpg */
+	position        : absolute;
+	left            : 194.25pt;
+	top             : 355.50pt;
+	width           : 234.75pt;
+	height          : 177.00pt;
+	}
+div#e2              { /* Maison en Auvergne au li... */
+	position        : absolute;
+	left            : 431.25pt;
+	top             : 290.25pt;
+	width           : 236.25pt;
+	height          :  56.25pt;
+	}
+div#e1              { /* Réunion de famille dans ... */
+	position        : absolute;
+	left            : 465.75pt;
+	top             : 450.75pt;
+	width           : 198.00pt;
+	height          :  38.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

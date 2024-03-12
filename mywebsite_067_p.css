@@ -1,0 +1,56 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc278              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc279              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	}
+img#e4              { /* mywebsite067002.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e3              { /* mywebsite067001.jpg */
+	position        : absolute;
+	left            : 100.50pt;
+	top             :  79.50pt;
+	width           : 618.00pt;
+	height          : 436.50pt;
+	}
+img#e2              { /* mywebsite007003.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 420.00pt;
+	width           :  72.75pt;
+	height          :  31.50pt;
+	}
+div#e1              { /* Déscendance */
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 427.50pt;
+	width           :  69.75pt;
+	height          :  15.00pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

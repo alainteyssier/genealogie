@@ -1,0 +1,76 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc293              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc294              { /* Common */
+	border          :   2.25pt solid #000000;
+	}
+.cc295              { /* Common */
+	border          :   1.50pt solid #008000;
+	}
+.cc296              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e6              { /* mywebsite070003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e5              { /* mywebsite072002.jpg */
+	position        : absolute;
+	left            : 131.25pt;
+	top             :  91.50pt;
+	width           : 187.50pt;
+	height          : 274.50pt;
+	}
+img#e4              { /* mywebsite072001.jpg */
+	position        : absolute;
+	left            : 354.00pt;
+	top             : 317.25pt;
+	width           : 339.75pt;
+	height          : 212.25pt;
+	}
+div#e3              { /* Colette est née à Lyon l... */
+	position        : absolute;
+	left            : 402.00pt;
+	top             : 116.25pt;
+	width           : 276.75pt;
+	height          :  56.25pt;
+	}
+div#e2              { /* La belle ville de Lyon, ... */
+	position        : absolute;
+	left            : 378.75pt;
+	top             : 269.25pt;
+	width           : 321.00pt;
+	height          :  29.25pt;
+	}
+div#e1              { /* Dans les bras de sa mama... */
+	position        : absolute;
+	left            : 126.00pt;
+	top             : 384.75pt;
+	width           : 202.50pt;
+	height          :  20.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

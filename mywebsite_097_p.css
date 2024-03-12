@@ -1,0 +1,103 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc360              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc361              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #ff0000;
+	}
+.cc362              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e10             { /* mywebsite096003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+div#e9              { /* Né le 11 février 1864 à ... */
+	background-color: #ffffff;
+	position        : absolute;
+	left            : 231.00pt;
+	top             :  58.50pt;
+	width           : 315.75pt;
+	height          :  20.25pt;
+	}
+img#e8              { /* mywebsite097004.jpg */
+	position        : absolute;
+	left            : 167.25pt;
+	top             : 104.25pt;
+	width           : 160.50pt;
+	height          : 199.50pt;
+	}
+img#e7              { /* mywebsite097003.jpg */
+	position        : absolute;
+	left            : 160.50pt;
+	top             : 359.25pt;
+	width           : 212.25pt;
+	height          : 144.75pt;
+	}
+div#e6              { /* Naissance de Camille Cla... */
+	position        : absolute;
+	left            : 157.50pt;
+	top             : 315.00pt;
+	width           : 204.75pt;
+	height          :  20.25pt;
+	}
+div#e5              { /* La mode à cette époque */
+	position        : absolute;
+	left            : 495.00pt;
+	top             : 307.50pt;
+	width           : 177.75pt;
+	height          :  20.25pt;
+	}
+div#e4              { /* Transport maritime en 18... */
+	position        : absolute;
+	left            : 191.25pt;
+	top             : 517.50pt;
+	width           : 195.00pt;
+	height          :  20.25pt;
+	}
+div#e3              { /* Edition du voyage au cen... */
+	position        : absolute;
+	left            : 472.50pt;
+	top             : 517.50pt;
+	width           : 262.50pt;
+	height          :  38.25pt;
+	}
+img#e2              { /* mywebsite097002.jpg */
+	position        : absolute;
+	left            : 477.75pt;
+	top             : 101.25pt;
+	width           : 167.25pt;
+	height          : 199.50pt;
+	}
+img#e1              { /* mywebsite097001.jpg */
+	position        : absolute;
+	left            : 460.50pt;
+	top             : 348.75pt;
+	width           : 222.75pt;
+	height          : 158.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

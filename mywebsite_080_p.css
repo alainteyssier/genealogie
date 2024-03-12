@@ -1,0 +1,63 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc318              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc319              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e5              { /* mywebsite070003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e4              { /* famille_navarro.jpg */
+	position        : absolute;
+	left            : 140.25pt;
+	top             :  70.50pt;
+	width           : 264.00pt;
+	height          : 227.25pt;
+	}
+img#e3              { /* mywebsite080001.jpg */
+	position        : absolute;
+	left            : 435.00pt;
+	top             : 248.25pt;
+	width           : 284.25pt;
+	height          : 273.00pt;
+	}
+div#e2              { /* <DIV><FONT size="2">Cole... */
+	position        : absolute;
+	left            : 424.50pt;
+	top             :  90.75pt;
+	width           : 205.50pt;
+	height          :  63.75pt;
+	}
+div#e1              { /* <DIV><FONT size="2">Delp... */
+	position        : absolute;
+	left            : 218.25pt;
+	top             : 409.50pt;
+	width           : 200.25pt;
+	height          :  98.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

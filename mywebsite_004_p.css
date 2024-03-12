@@ -1,0 +1,55 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc12               { /* Common */
+	border          :   0.00pt none #ff3366;
+	}
+.cc13               { /* Common */
+	font            : italic bold 18pt 'Casper Light SF';
+	color           : #000000;
+	text-align      : center;
+	}
+.cc14               { /* Common */
+	border          :   0.00pt none #ff0000;
+	}
+span#e3             { /* mywebsite004002.gif */
+	background      : transparent url(mywebsite004002.gif) no-repeat top left;
+	position        : absolute;
+	left            :  57.00pt;
+	top             :  12.75pt;
+	width           : 652.50pt;
+	height          :  48.00pt;
+	}
+div#e2              { /* &nbsp;&nbsp;GENEALOGIE  ... */
+	background-color: #ffff00;
+	position        : absolute;
+	left            :  64.50pt;
+	top             :  21.75pt;
+	width           : 639.75pt;
+	height          :  27.75pt;
+	}
+img#e1              { /* mywebsite004001.jpg */
+	position        : absolute;
+	left            :  36.00pt;
+	top             :  80.25pt;
+	width           : 688.50pt;
+	height          : 481.50pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

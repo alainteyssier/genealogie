@@ -1,0 +1,180 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc175              { /* Common */
+	border          :   0.00pt none #ff3366;
+	}
+.cc176              { /* Common */
+	font            : italic bold 18pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc177              { /* Common */
+	font            : bold 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc178              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc179              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	}
+.cc180              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc181              { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+span#e18            { /* mywebsite030003.gif */
+	background      : transparent url(mywebsite030003.gif) no-repeat top left;
+	position        : absolute;
+	left            :  78.75pt;
+	top             :  15.00pt;
+	width           : 618.75pt;
+	height          :  27.00pt;
+	}
+div#e17             { /* &nbsp;&nbsp;DOCUMENTATIO... */
+	position        : absolute;
+	left            :  90.75pt;
+	top             :  16.50pt;
+	width           : 574.50pt;
+	height          :  28.50pt;
+	}
+img#e16             { /* mywebsite007007.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 142.50pt;
+	width           :  57.00pt;
+	height          :  30.75pt;
+	}
+span#e15            { /* mywebsite007006.gif */
+	background      : transparent url(mywebsite007006.gif) no-repeat top left;
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 202.50pt;
+	width           :  58.50pt;
+	height          :  29.25pt;
+	}
+img#e14             { /* mywebsite007005.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 261.75pt;
+	width           :  58.50pt;
+	height          :  28.50pt;
+	}
+div#e13             { /* MENU */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 150.00pt;
+	width           :  60.75pt;
+	height          :  17.25pt;
+	}
+div#e12             { /* SUITE */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 210.00pt;
+	width           :  57.00pt;
+	height          :  26.25pt;
+	}
+div#e11             { /* RETOUR */
+	position        : absolute;
+	left            :   6.75pt;
+	top             : 267.00pt;
+	width           :  68.25pt;
+	height          :  28.50pt;
+	}
+span#e10            { /* mywebsite007005.gif */
+	background      : transparent url(mywebsite007005.gif) no-repeat top left;
+	position        : absolute;
+	left            :  12.00pt;
+	top             : 322.50pt;
+	width           :  58.50pt;
+	height          :  28.50pt;
+	}
+div#e9              { /* DOC */
+	position        : absolute;
+	left            :  23.25pt;
+	top             : 330.00pt;
+	width           :  35.25pt;
+	height          :  26.25pt;
+	}
+img#e8              { /* mywebsite007004.gif */
+	position        : absolute;
+	left            :  12.00pt;
+	top             : 374.25pt;
+	width           :  70.50pt;
+	height          :  31.50pt;
+	}
+div#e7              { /* Ascendance */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 383.25pt;
+	width           :  60.00pt;
+	height          :  14.25pt;
+	}
+img#e6              { /* mywebsite007003.gif */
+	position        : absolute;
+	left            :  10.50pt;
+	top             : 421.50pt;
+	width           :  72.75pt;
+	height          :  31.50pt;
+	}
+div#e5              { /* Déscendance */
+	position        : absolute;
+	left            :  18.00pt;
+	top             : 429.75pt;
+	width           :  69.75pt;
+	height          :  15.00pt;
+	}
+img#e4              { /* mywebsite030002.jpg */
+	position        : absolute;
+	left            : 150.75pt;
+	top             : 117.00pt;
+	width           : 178.50pt;
+	height          : 247.50pt;
+	}
+img#e3              { /* mywebsite030001.jpg */
+	position        : absolute;
+	left            : 458.25pt;
+	top             :  92.25pt;
+	width           : 191.25pt;
+	height          : 303.75pt;
+	}
+div#e2              { /* <DIV><FONT size="2">Son ... */
+	position        : absolute;
+	left            : 455.25pt;
+	top             : 413.25pt;
+	width           : 230.25pt;
+	height          :  80.25pt;
+	}
+div#e1              { /* <DIV>A son décès, sa mai... */
+	position        : absolute;
+	left            : 147.75pt;
+	top             : 398.25pt;
+	width           : 211.50pt;
+	height          :  87.00pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

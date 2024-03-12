@@ -1,0 +1,49 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc240              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc241              { /* Common */
+	border          :   3.00pt solid #ffff00;
+	}
+img#e3              { /* mywebsite052003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+span#e2             { /* mywebsite052002.jpg */
+	background      : transparent url(mywebsite052002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 109.50pt;
+	top             : 102.00pt;
+	width           : 271.50pt;
+	height          : 402.00pt;
+	}
+img#e1              { /* mywebsite052001.jpg */
+	position        : absolute;
+	left            : 416.25pt;
+	top             :  60.00pt;
+	width           : 310.50pt;
+	height          : 488.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

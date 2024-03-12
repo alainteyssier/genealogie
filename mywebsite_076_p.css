@@ -1,0 +1,89 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc304              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc305              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc306              { /* Common */
+	font            : italic 12pt 'Arial', Helvetica, sans-serif;
+	color           : #ff0000;
+	}
+img#e8              { /* mywebsite070003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e7              { /* mywebsite076003.jpg */
+	position        : absolute;
+	left            : 103.50pt;
+	top             : 102.75pt;
+	width           : 216.75pt;
+	height          : 228.00pt;
+	}
+div#e6              { /* Elle rentra à 19 ans dan... */
+	position        : absolute;
+	left            : 490.50pt;
+	top             : 124.50pt;
+	width           : 214.50pt;
+	height          : 135.00pt;
+	}
+img#e5              { /* mywebsite076002.jpg */
+	position        : absolute;
+	left            : 489.00pt;
+	top             : 276.00pt;
+	width           : 223.50pt;
+	height          : 187.50pt;
+	}
+img#e4              { /* mywebsite076001.jpg */
+	position        : absolute;
+	left            : 123.00pt;
+	top             : 357.75pt;
+	width           : 172.50pt;
+	height          : 177.75pt;
+	}
+div#e3              { /* Cliquez sur la photo pou... */
+	background-color: #ffffff;
+	position        : absolute;
+	left            : 534.00pt;
+	top             : 475.50pt;
+	width           : 162.00pt;
+	height          :  44.25pt;
+	}
+div#e2              { /* Voici la sortie de la ma... */
+	position        : absolute;
+	left            : 318.00pt;
+	top             : 384.75pt;
+	width           : 144.00pt;
+	height          : 164.25pt;
+	}
+div#e1              { /* Assise sur la fontaine d... */
+	position        : absolute;
+	left            : 348.75pt;
+	top             : 141.00pt;
+	width           : 105.75pt;
+	height          :  92.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

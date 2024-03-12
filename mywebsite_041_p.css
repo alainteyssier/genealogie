@@ -1,0 +1,83 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc211              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc212              { /* Common */
+	font            : 14pt 'Arial', Helvetica, sans-serif;
+	color           : #6666ff;
+	text-align      : center;
+	}
+.cc213              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e7              { /* mywebsite037003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e6              { /* mywebsite041003.jpg */
+	position        : absolute;
+	left            : 185.25pt;
+	top             : 383.25pt;
+	width           : 190.50pt;
+	height          : 143.25pt;
+	}
+div#e5              { /* ALLEZ, AU  TRAVAIL !  */
+	position        : absolute;
+	left            : 248.25pt;
+	top             :  87.75pt;
+	width           : 186.00pt;
+	height          :  22.50pt;
+	}
+span#e4             { /* mywebsite041002.jpg */
+	background      : transparent url(mywebsite041002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 246.75pt;
+	top             :  84.00pt;
+	width           : 186.75pt;
+	height          :  29.25pt;
+	}
+div#e3              { /* Mon 2eme employeur, aprè... */
+	position        : absolute;
+	left            : 201.00pt;
+	top             : 193.50pt;
+	width           : 242.25pt;
+	height          :  74.25pt;
+	}
+div#e2              { /* Et ma dernière société, ... */
+	position        : absolute;
+	left            : 401.25pt;
+	top             : 434.25pt;
+	width           : 263.25pt;
+	height          :  56.25pt;
+	}
+img#e1              { /* mywebsite041001.jpg */
+	position        : absolute;
+	left            : 457.50pt;
+	top             : 162.00pt;
+	width           : 224.25pt;
+	height          : 156.00pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

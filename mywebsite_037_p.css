@@ -1,0 +1,70 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc199              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc200              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e6              { /* mywebsite037003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e5              { /* mywebsite037002.gif */
+	position        : absolute;
+	left            : 138.00pt;
+	top             : 105.75pt;
+	width           : 167.25pt;
+	height          : 276.00pt;
+	}
+img#e4              { /* mywebsite037001.jpg */
+	position        : absolute;
+	left            : 397.50pt;
+	top             : 380.25pt;
+	width           : 231.00pt;
+	height          : 152.25pt;
+	}
+div#e3              { /* J'ai fait mon service mi... */
+	position        : absolute;
+	left            : 371.25pt;
+	top             :  82.50pt;
+	width           : 317.25pt;
+	height          : 198.00pt;
+	}
+div#e2              { /* Rentré ensuite à Lyon ch... */
+	position        : absolute;
+	left            : 371.25pt;
+	top             : 247.50pt;
+	width           : 319.50pt;
+	height          : 110.25pt;
+	}
+div#e1              { /* Ici dans l'entreprise Ca... */
+	position        : absolute;
+	left            : 209.25pt;
+	top             : 465.00pt;
+	width           : 177.00pt;
+	height          :  56.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

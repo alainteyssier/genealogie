@@ -1,0 +1,67 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc190              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc191              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc192              { /* Common */
+	font            : italic 12pt 'Courier New', monospace;
+	color           : #000000;
+	}
+img#e5              { /* mywebsite034002.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+div#e4              { /* Ma première photo de cla... */
+	position        : absolute;
+	left            : 430.50pt;
+	top             : 100.50pt;
+	width           : 285.00pt;
+	height          :  38.25pt;
+	}
+div#e3              { /* Après avoir quitté l'Auv... */
+	position        : absolute;
+	left            : 430.50pt;
+	top             : 179.25pt;
+	width           : 273.00pt;
+	height          : 105.75pt;
+	}
+img#e2              { /* mywebsite034001.jpg */
+	position        : absolute;
+	left            : 249.75pt;
+	top             : 327.75pt;
+	width           : 165.00pt;
+	height          : 210.75pt;
+	}
+div#e1              { /* Mon premier cahier d'éco... */
+	position        : absolute;
+	left            : 469.50pt;
+	top             : 405.00pt;
+	width           : 197.25pt;
+	height          :  38.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

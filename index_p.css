@@ -1,0 +1,99 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc01               { /* Common */
+	border          :   0.00pt none #ff3366;
+	}
+.cc02               { /* Common */
+	font            : italic bold 18pt 'Casper Light SF';
+	color           : #000000;
+	text-align      : center;
+	}
+.cc03               { /* Common */
+	border          :   0.00pt none #ff0000;
+	}
+.cc04               { /* Common */
+	border          :   0.00pt none #00ffff;
+	}
+.cc05               { /* Common */
+	font            : bold 14pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+span#e8             { /* mywebsite001005.gif */
+	background      : transparent url(mywebsite001005.gif) no-repeat top left;
+	position        : absolute;
+	left            :  43.50pt;
+	top             :  20.25pt;
+	width           : 677.25pt;
+	height          :  48.00pt;
+	}
+div#e7              { /* &nbsp;&nbsp;GENEALOGIE  ... */
+	background-color: #ffff00;
+	position        : absolute;
+	left            :  51.75pt;
+	top             :  33.00pt;
+	width           : 662.25pt;
+	height          :  27.75pt;
+	}
+span#e6             { /* mywebsite001004.gif */
+	background      : transparent url(mywebsite001004.gif) no-repeat top left;
+	position        : absolute;
+	left            :  36.00pt;
+	top             : 116.25pt;
+	width           : 688.50pt;
+	height          : 445.50pt;
+	}
+span#e5             { /* mywebsite001003.jpg */
+	background      : transparent url(mywebsite001003.jpg) no-repeat top left;
+	position        : absolute;
+	left            :  79.50pt;
+	top             : 130.50pt;
+	width           : 582.75pt;
+	height          : 411.00pt;
+	}
+img#e4              { /* mywebsite001002.jpg */
+	position        : absolute;
+	left            : 591.00pt;
+	top             : 509.25pt;
+	width           : 123.00pt;
+	height          :  42.75pt;
+	}
+div#e3              { /* généalogie  */
+	position        : absolute;
+	left            : 613.50pt;
+	top             : 516.75pt;
+	width           : 102.00pt;
+	height          :  31.50pt;
+	}
+img#e2              { /* mywebsite001001.jpg */
+	position        : absolute;
+	left            :  48.00pt;
+	top             : 510.75pt;
+	width           : 123.00pt;
+	height          :  42.75pt;
+	}
+div#e1              { /* préface  */
+	position        : absolute;
+	left            :  75.00pt;
+	top             : 519.00pt;
+	width           :  81.00pt;
+	height          :  28.50pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

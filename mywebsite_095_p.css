@@ -1,0 +1,60 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc356              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc357              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc358              { /* Common */
+	font            : italic 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e4              { /* mywebsite095002.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e3              { /* mywebsite095001.jpg */
+	position        : absolute;
+	left            : 279.00pt;
+	top             :  93.75pt;
+	width           : 227.25pt;
+	height          : 189.75pt;
+	}
+div#e2              { /* <DIV>Jean-Ro chante "les... */
+	position        : absolute;
+	left            : 258.75pt;
+	top             : 315.00pt;
+	width           : 379.50pt;
+	height          :  45.75pt;
+	}
+div#e1              { /* <DIV><FONT color="#ff000... */
+	position        : absolute;
+	left            : 548.25pt;
+	top             : 180.00pt;
+	width           : 117.75pt;
+	height          :  45.75pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,202 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc154              { /* Common */
+	border          :   0.00pt none #ff3366;
+	}
+.cc155              { /* Common */
+	font            : italic bold 18pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc156              { /* Common */
+	font            : bold 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc157              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc158              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	}
+.cc159              { /* Common */
+	border          :   2.25pt solid #ececec;
+	}
+.cc160              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc161              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+span#e21            { /* mywebsite027004.gif */
+	background      : transparent url(mywebsite027004.gif) no-repeat top left;
+	position        : absolute;
+	left            :  78.75pt;
+	top             :  15.00pt;
+	width           : 618.75pt;
+	height          :  27.00pt;
+	}
+div#e20             { /* &nbsp;&nbsp;GENEALOGIE  ... */
+	position        : absolute;
+	left            :  90.75pt;
+	top             :  16.50pt;
+	width           : 574.50pt;
+	height          :  28.50pt;
+	}
+img#e19             { /* mywebsite007007.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 142.50pt;
+	width           :  57.00pt;
+	height          :  30.75pt;
+	}
+span#e18            { /* mywebsite007006.gif */
+	background      : transparent url(mywebsite007006.gif) no-repeat top left;
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 202.50pt;
+	width           :  58.50pt;
+	height          :  29.25pt;
+	}
+img#e17             { /* mywebsite007005.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 261.75pt;
+	width           :  58.50pt;
+	height          :  28.50pt;
+	}
+div#e16             { /* MENU */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 150.00pt;
+	width           :  60.75pt;
+	height          :  17.25pt;
+	}
+div#e15             { /* SUITE */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 210.00pt;
+	width           :  57.00pt;
+	height          :  26.25pt;
+	}
+div#e14             { /* RETOUR */
+	position        : absolute;
+	left            :   6.75pt;
+	top             : 267.00pt;
+	width           :  68.25pt;
+	height          :  28.50pt;
+	}
+img#e13             { /* mywebsite007005.gif */
+	position        : absolute;
+	left            :  12.00pt;
+	top             : 322.50pt;
+	width           :  58.50pt;
+	height          :  28.50pt;
+	}
+div#e12             { /* DOC */
+	position        : absolute;
+	left            :  23.25pt;
+	top             : 330.00pt;
+	width           :  35.25pt;
+	height          :  26.25pt;
+	}
+img#e11             { /* mywebsite007004.gif */
+	position        : absolute;
+	left            :  12.00pt;
+	top             : 374.25pt;
+	width           :  70.50pt;
+	height          :  31.50pt;
+	}
+div#e10             { /* Ascendance */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 383.25pt;
+	width           :  60.00pt;
+	height          :  14.25pt;
+	}
+img#e9              { /* mywebsite007003.gif */
+	position        : absolute;
+	left            :  10.50pt;
+	top             : 421.50pt;
+	width           :  72.75pt;
+	height          :  31.50pt;
+	}
+div#e8              { /* Déscendance */
+	position        : absolute;
+	left            :  18.00pt;
+	top             : 429.75pt;
+	width           :  69.75pt;
+	height          :  15.00pt;
+	}
+img#e7              { /* mywebsite027003.jpg */
+	position        : absolute;
+	left            : 137.25pt;
+	top             : 105.75pt;
+	width           : 156.75pt;
+	height          : 218.25pt;
+	}
+div#e6              { /* Acte de décès du 29 juin... */
+	position        : absolute;
+	left            : 127.50pt;
+	top             : 348.75pt;
+	width           : 207.00pt;
+	height          :  30.00pt;
+	}
+img#e5              { /* mywebsite027002.gif */
+	position        : absolute;
+	left            : 140.25pt;
+	top             : 104.25pt;
+	width           : 151.50pt;
+	height          : 221.25pt;
+	}
+div#e4              { /* Ayant été gazé pendant l... */
+	position        : absolute;
+	left            : 360.00pt;
+	top             :  89.25pt;
+	width           : 346.50pt;
+	height          : 110.25pt;
+	}
+div#e3              { /* Il mourut à l'hopital de... */
+	position        : absolute;
+	left            : 361.50pt;
+	top             : 238.50pt;
+	width           : 316.50pt;
+	height          :  56.25pt;
+	}
+img#e2              { /* mywebsite027001.jpg */
+	position        : absolute;
+	left            : 420.75pt;
+	top             : 311.25pt;
+	width           : 226.50pt;
+	height          : 170.25pt;
+	}
+div#e1              { /* Voici le lieu de son der... */
+	position        : absolute;
+	left            : 233.25pt;
+	top             : 420.00pt;
+	width           : 180.75pt;
+	height          :  74.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

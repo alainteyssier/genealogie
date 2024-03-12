@@ -1,0 +1,148 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc351              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc352              { /* Common */
+	border          :   0.00pt none #cc99ff;
+	}
+.cc353              { /* Common */
+	font            : bold 11pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	}
+.cc354              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc355              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	}
+img#e15             { /* mywebsite094010.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+span#e14            { /* mywebsite094009.gif */
+	background      : transparent url(mywebsite094009.gif) no-repeat top left;
+	position        : absolute;
+	left            : 300.00pt;
+	top             :  59.25pt;
+	width           : 217.50pt;
+	height          :  34.50pt;
+	}
+div#e13             { /* Cliquez sur l'ancètre ch... */
+	position        : absolute;
+	left            : 331.50pt;
+	top             :  66.00pt;
+	width           : 172.50pt;
+	height          :  18.00pt;
+	}
+img#e12             { /* mywebsite094008.jpg */
+	position        : absolute;
+	left            :  89.25pt;
+	top             : 104.25pt;
+	width           : 633.75pt;
+	height          : 443.25pt;
+	}
+img#e11             { /* mywebsite094007.jpg */
+	position        : absolute;
+	left            : 197.25pt;
+	top             : 300.75pt;
+	width           :  90.75pt;
+	height          :  60.75pt;
+	}
+img#e10             { /* mywebsite094006.jpg */
+	position        : absolute;
+	left            : 304.50pt;
+	top             : 281.25pt;
+	width           :  87.00pt;
+	height          :  60.75pt;
+	}
+img#e9              { /* mywebsite094005.jpg */
+	position        : absolute;
+	left            : 413.25pt;
+	top             : 280.50pt;
+	width           :  88.50pt;
+	height          :  60.75pt;
+	}
+img#e8              { /* mywebsite094004.jpg */
+	position        : absolute;
+	left            : 519.00pt;
+	top             : 300.00pt;
+	width           :  88.50pt;
+	height          :  60.75pt;
+	}
+img#e7              { /* mywebsite094003.jpg */
+	position        : absolute;
+	left            : 301.50pt;
+	top             : 372.00pt;
+	width           :  87.75pt;
+	height          :  62.25pt;
+	}
+img#e6              { /* mywebsite094002.jpg */
+	position        : absolute;
+	left            : 413.25pt;
+	top             : 372.00pt;
+	width           :  91.50pt;
+	height          :  63.00pt;
+	}
+img#e5              { /* mywebsite094001.jpg */
+	position        : absolute;
+	left            : 340.50pt;
+	top             : 457.50pt;
+	width           : 114.00pt;
+	height          :  61.50pt;
+	}
+span#e4             { /* mywebsite007004.gif */
+	background      : transparent url(mywebsite007004.gif) no-repeat top left;
+	position        : absolute;
+	left            :  12.00pt;
+	top             : 374.25pt;
+	width           :  70.50pt;
+	height          :  31.50pt;
+	}
+div#e3              { /* Ascendance */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 383.25pt;
+	width           :  60.00pt;
+	height          :  14.25pt;
+	}
+span#e2             { /* mywebsite007003.gif */
+	background      : transparent url(mywebsite007003.gif) no-repeat top left;
+	position        : absolute;
+	left            :  10.50pt;
+	top             : 422.25pt;
+	width           :  72.75pt;
+	height          :  31.50pt;
+	}
+div#e1              { /* Déscendance */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 429.75pt;
+	width           :  69.75pt;
+	height          :  15.00pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

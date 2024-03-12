@@ -1,0 +1,106 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc242              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc243              { /* Common */
+	font            : italic bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc244              { /* Common */
+	border          :   0.75pt solid #000000;
+	}
+.cc245              { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e10             { /* mywebsite052003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+div#e9              { /* <DIV><FONT color="#ff000... */
+	position        : absolute;
+	left            : 191.25pt;
+	top             :  52.50pt;
+	width           : 383.25pt;
+	height          :  21.75pt;
+	}
+img#e8              { /* mywebsite053004.jpg */
+	position        : absolute;
+	left            : 146.25pt;
+	top             :  90.00pt;
+	width           : 144.75pt;
+	height          : 201.75pt;
+	}
+img#e7              { /* mywebsite053003.jpg */
+	position        : absolute;
+	left            : 562.50pt;
+	top             :  97.50pt;
+	width           :  93.00pt;
+	height          : 187.50pt;
+	}
+img#e6              { /* 1945-timbre.jpg */
+	position        : absolute;
+	left            : 472.50pt;
+	top             : 375.00pt;
+	width           : 206.25pt;
+	height          : 137.25pt;
+	}
+img#e5              { /* mywebsite053002.jpg */
+	position        : absolute;
+	left            : 146.25pt;
+	top             : 382.50pt;
+	width           : 237.00pt;
+	height          : 133.50pt;
+	}
+img#e4              { /* mywebsite053001.jpg */
+	position        : absolute;
+	left            : 348.00pt;
+	top             :  89.25pt;
+	width           : 147.00pt;
+	height          : 202.50pt;
+	}
+div#e3              { /* Fin 2eme guerre mondiale... */
+	position        : absolute;
+	left            : 168.75pt;
+	top             : 300.00pt;
+	width           : 195.75pt;
+	height          :  23.25pt;
+	}
+div#e2              { /* <DIV>La mode en 1945</DI... */
+	position        : absolute;
+	left            : 585.00pt;
+	top             : 292.50pt;
+	width           : 126.00pt;
+	height          :  24.75pt;
+	}
+div#e1              { /* <DIV>La bombe sur Hirosh... */
+	position        : absolute;
+	left            : 180.00pt;
+	top             : 525.00pt;
+	width           : 169.50pt;
+	height          :  23.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

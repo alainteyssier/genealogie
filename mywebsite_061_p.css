@@ -1,0 +1,59 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc263              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc264              { /* Common */
+	border          :   2.25pt solid #800080;
+	}
+.cc265              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e4              { /* mywebsite052003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e3              { /* mywebsite061002.jpg */
+	position        : absolute;
+	left            : 134.25pt;
+	top             : 108.00pt;
+	width           : 292.50pt;
+	height          : 317.25pt;
+	}
+img#e2              { /* mywebsite061001.jpg */
+	position        : absolute;
+	left            : 452.25pt;
+	top             : 217.50pt;
+	width           : 230.25pt;
+	height          : 156.00pt;
+	}
+div#e1              { /* Gérard, Doris sa femme e... */
+	position        : absolute;
+	left            : 458.25pt;
+	top             : 424.50pt;
+	width           : 254.25pt;
+	height          :  56.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

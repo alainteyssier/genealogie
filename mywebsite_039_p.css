@@ -1,0 +1,63 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc206              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc207              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e5              { /* mywebsite039002.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+div#e4              { /* Marie-Laure, ma première... */
+	position        : absolute;
+	left            : 170.25pt;
+	top             : 286.50pt;
+	width           : 221.25pt;
+	height          :  20.25pt;
+	}
+div#e3              { /* Puis Céline à droite et ... */
+	position        : absolute;
+	left            : 474.00pt;
+	top             : 357.75pt;
+	width           : 246.75pt;
+	height          :  38.25pt;
+	}
+div#e2              { /* Et là, toute la famille ... */
+	position        : absolute;
+	left            : 450.00pt;
+	top             : 479.25pt;
+	width           : 258.00pt;
+	height          :  38.25pt;
+	}
+img#e1              { /* mywebsite039001.jpg */
+	position        : absolute;
+	left            : 104.25pt;
+	top             : 350.25pt;
+	width           : 334.50pt;
+	height          : 199.50pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,105 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc268              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc269              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e11             { /* mywebsite052003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e10             { /* mywebsite063005.jpg */
+	position        : absolute;
+	left            : 207.75pt;
+	top             :  60.75pt;
+	width           : 129.75pt;
+	height          : 171.00pt;
+	}
+div#e9              { /* Début de carrière en 196... */
+	position        : absolute;
+	left            : 215.25pt;
+	top             : 246.75pt;
+	width           : 116.25pt;
+	height          :  42.00pt;
+	}
+img#e8              { /* mywebsite063004.jpg */
+	position        : absolute;
+	left            : 450.75pt;
+	top             :  81.00pt;
+	width           : 218.25pt;
+	height          : 183.00pt;
+	}
+div#e7              { /* 1983 à Autun */
+	position        : absolute;
+	left            : 517.50pt;
+	top             : 276.75pt;
+	width           : 122.25pt;
+	height          :  20.25pt;
+	}
+img#e6              { /* mywebsite063003.jpg */
+	position        : absolute;
+	left            : 282.00pt;
+	top             : 318.00pt;
+	width           : 210.75pt;
+	height          : 129.75pt;
+	}
+div#e5              { /* 1991 à Kehl */
+	position        : absolute;
+	left            : 346.50pt;
+	top             : 465.00pt;
+	width           : 142.50pt;
+	height          :  20.25pt;
+	}
+img#e4              { /* mywebsite063002.jpg */
+	position        : absolute;
+	left            : 138.00pt;
+	top             : 302.25pt;
+	width           : 109.50pt;
+	height          : 179.25pt;
+	}
+div#e3              { /* 1990 chevalier de l'ordr... */
+	position        : absolute;
+	left            : 146.25pt;
+	top             : 502.50pt;
+	width           : 163.50pt;
+	height          :  38.25pt;
+	}
+img#e2              { /* mywebsite063001.jpg */
+	position        : absolute;
+	left            : 538.50pt;
+	top             : 348.75pt;
+	width           : 168.00pt;
+	height          : 121.50pt;
+	}
+div#e1              { /* 1992 */
+	position        : absolute;
+	left            : 589.50pt;
+	top             : 489.75pt;
+	width           :  98.25pt;
+	height          :  20.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

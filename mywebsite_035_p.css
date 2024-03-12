@@ -1,0 +1,53 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc193              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc194              { /* Common */
+	font            : bold 12pt 'Courier New', monospace;
+	color           : #000000;
+	}
+.cc195              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e3              { /* mywebsite035001.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+div#e2              { /* Ma communion solennelle ... */
+	position        : absolute;
+	left            : 144.00pt;
+	top             : 383.25pt;
+	width           : 209.25pt;
+	height          : 109.50pt;
+	}
+div#e1              { /* En 1955 avec mes parents */
+	position        : absolute;
+	left            : 464.25pt;
+	top             : 432.75pt;
+	width           : 230.25pt;
+	height          :  20.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

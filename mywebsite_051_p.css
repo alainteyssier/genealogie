@@ -1,0 +1,138 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc237              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc238              { /* Common */
+	font            : bold 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc239              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e15             { /* mywebsite049008.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e14             { /* mywebsite007005.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 261.75pt;
+	width           :  58.50pt;
+	height          :  28.50pt;
+	}
+div#e13             { /* RETOUR */
+	position        : absolute;
+	left            :   6.75pt;
+	top             : 267.00pt;
+	width           :  68.25pt;
+	height          :  28.50pt;
+	}
+img#e12             { /* mywebsite051006.jpg */
+	position        : absolute;
+	left            : 151.50pt;
+	top             :  79.50pt;
+	width           : 138.00pt;
+	height          : 169.50pt;
+	}
+div#e11             { /* Ticket de rationnement e... */
+	position        : absolute;
+	left            : 135.75pt;
+	top             : 259.50pt;
+	width           : 227.25pt;
+	height          :  20.25pt;
+	}
+img#e10             { /* mywebsite051005.jpg */
+	position        : absolute;
+	left            : 486.75pt;
+	top             :  96.00pt;
+	width           : 105.00pt;
+	height          : 135.75pt;
+	}
+div#e9              { /* Certificat de nationnali... */
+	position        : absolute;
+	left            : 428.25pt;
+	top             : 255.00pt;
+	width           : 233.25pt;
+	height          :  20.25pt;
+	}
+img#e8              { /* mywebsite051004.jpg */
+	position        : absolute;
+	left            : 182.25pt;
+	top             : 297.00pt;
+	width           : 105.00pt;
+	height          :  66.00pt;
+	}
+img#e7              { /* mywebsite051003.jpg */
+	position        : absolute;
+	left            : 562.50pt;
+	top             : 285.75pt;
+	width           : 110.25pt;
+	height          :  88.50pt;
+	}
+img#e6              { /* mywebsite051002.jpg */
+	position        : absolute;
+	left            : 352.50pt;
+	top             : 295.50pt;
+	width           : 126.75pt;
+	height          :  71.25pt;
+	}
+div#e5              { /* Au Fraysse en 1991  */
+	position        : absolute;
+	left            : 357.75pt;
+	top             : 377.25pt;
+	width           : 139.50pt;
+	height          :  29.25pt;
+	}
+div#e4              { /* Au Fraysse en 1994  */
+	position        : absolute;
+	left            : 559.50pt;
+	top             : 382.50pt;
+	width           : 138.00pt;
+	height          :  21.75pt;
+	}
+div#e3              { /* He oui, parfois !  */
+	position        : absolute;
+	left            : 181.50pt;
+	top             : 378.00pt;
+	width           : 105.75pt;
+	height          :  26.25pt;
+	}
+img#e2              { /* mywebsite051001.jpg */
+	position        : absolute;
+	left            : 172.50pt;
+	top             : 435.00pt;
+	width           : 129.75pt;
+	height          :  99.00pt;
+	}
+div#e1              { /* En 1972 a Balan, lors de... */
+	position        : absolute;
+	left            : 309.75pt;
+	top             : 437.25pt;
+	width           : 168.00pt;
+	height          :  92.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,74 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc196              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc197              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc198              { /* Common */
+	font            : bold 14pt 'Courier New', monospace;
+	color           : #000000;
+	}
+img#e6              { /* mywebsite036003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+div#e5              { /* A l'âge de 12 ans, mes p... */
+	position        : absolute;
+	left            : 432.75pt;
+	top             : 119.25pt;
+	width           : 267.00pt;
+	height          : 182.25pt;
+	}
+div#e4              { /* Ici à 15 ans avec mes fr... */
+	position        : absolute;
+	left            : 120.75pt;
+	top             : 360.75pt;
+	width           : 104.25pt;
+	height          : 103.50pt;
+	}
+img#e3              { /* mywebsite036002.gif */
+	position        : absolute;
+	left            : 126.00pt;
+	top             : 105.75pt;
+	width           : 215.25pt;
+	height          : 180.00pt;
+	}
+img#e2              { /* mywebsite036001.jpg */
+	position        : absolute;
+	left            : 485.25pt;
+	top             : 333.75pt;
+	width           : 186.00pt;
+	height          : 147.00pt;
+	}
+div#e1              { /* En 5eme au lycée Hector ... */
+	position        : absolute;
+	left            : 486.00pt;
+	top             : 500.25pt;
+	width           : 228.00pt;
+	height          :  38.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

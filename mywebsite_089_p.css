@@ -1,0 +1,81 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc339              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc340              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc341              { /* Common */
+	font            : italic 12pt 'Arial', Helvetica, sans-serif;
+	color           : #ff0000;
+	}
+img#e7              { /* mywebsite084003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e6              { /* mywebsite089003.jpg */
+	position        : absolute;
+	left            : 111.75pt;
+	top             :  90.00pt;
+	width           : 231.00pt;
+	height          : 266.25pt;
+	}
+div#e5              { /* Pendant plusieurs années... */
+	position        : absolute;
+	left            : 408.75pt;
+	top             : 108.75pt;
+	width           : 213.00pt;
+	height          :  56.25pt;
+	}
+img#e4              { /* mywebsite089002.jpg */
+	position        : absolute;
+	left            : 470.25pt;
+	top             : 191.25pt;
+	width           : 159.00pt;
+	height          : 249.75pt;
+	}
+div#e3              { /* Là, il donnait un cours ... */
+	position        : absolute;
+	left            : 471.75pt;
+	top             : 459.75pt;
+	width           : 173.25pt;
+	height          :  38.25pt;
+	}
+img#e2              { /* mywebsite089001.jpg */
+	position        : absolute;
+	left            : 121.50pt;
+	top             : 385.50pt;
+	width           : 123.75pt;
+	height          : 142.50pt;
+	}
+div#e1              { /* Cliquez sur la clé de so... */
+	position        : absolute;
+	left            : 258.00pt;
+	top             : 411.75pt;
+	width           : 105.75pt;
+	height          :  96.00pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

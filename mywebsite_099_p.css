@@ -1,0 +1,56 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc366              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc367              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e4              { /* mywebsite096003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e3              { /* mywebsite099002.jpg */
+	position        : absolute;
+	left            : 166.50pt;
+	top             :  95.25pt;
+	width           : 411.00pt;
+	height          : 332.25pt;
+	}
+img#e2              { /* mywebsite099001.jpg */
+	position        : absolute;
+	left            : 395.25pt;
+	top             : 112.50pt;
+	width           :  17.25pt;
+	height          :  51.00pt;
+	}
+div#e1              { /* C'était une école à plus... */
+	position        : absolute;
+	left            : 182.25pt;
+	top             : 453.75pt;
+	width           : 409.50pt;
+	height          :  92.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,67 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc208              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc209              { /* Common */
+	font            : italic bold 12pt 'Courier New', monospace;
+	color           : #000000;
+	}
+.cc210              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e5              { /* mywebsite040001.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+div#e4              { /* Nous avons habités dans ... */
+	position        : absolute;
+	left            : 354.75pt;
+	top             :  86.25pt;
+	width           : 359.25pt;
+	height          :  54.00pt;
+	}
+div#e3              { /* Notre première maison co... */
+	position        : absolute;
+	left            : 333.00pt;
+	top             : 191.25pt;
+	width           : 300.75pt;
+	height          :  38.25pt;
+	}
+div#e2              { /* La seconde, en Arles, ou... */
+	position        : absolute;
+	left            : 151.50pt;
+	top             : 298.50pt;
+	width           : 258.75pt;
+	height          :  64.50pt;
+	}
+div#e1              { /* Et enfin, la 3eme constr... */
+	position        : absolute;
+	left            : 349.50pt;
+	top             : 483.75pt;
+	width           : 336.75pt;
+	height          :  38.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

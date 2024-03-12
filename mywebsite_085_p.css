@@ -1,0 +1,56 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc330              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc331              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e4              { /* mywebsite084003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+div#e3              { /* Jean-Roger est né à Lyon... */
+	position        : absolute;
+	left            : 465.00pt;
+	top             : 129.75pt;
+	width           : 232.50pt;
+	height          : 130.50pt;
+	}
+img#e2              { /* mywebsite085001.jpg */
+	position        : absolute;
+	left            : 138.75pt;
+	top             :  86.25pt;
+	width           : 273.00pt;
+	height          : 393.75pt;
+	}
+div#e1              { /* Ici, au Fraysse, devant ... */
+	position        : absolute;
+	left            : 471.00pt;
+	top             : 368.25pt;
+	width           : 177.00pt;
+	height          :  38.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

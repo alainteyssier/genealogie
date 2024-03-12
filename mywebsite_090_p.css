@@ -1,0 +1,49 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc342              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc343              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e3              { /* mywebsite084003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e2              { /* mywebsite090001.jpg */
+	position        : absolute;
+	left            : 192.00pt;
+	top             :  80.25pt;
+	width           : 425.25pt;
+	height          : 352.50pt;
+	}
+div#e1              { /* Le voici en été 2000 ave... */
+	position        : absolute;
+	left            : 191.25pt;
+	top             : 475.50pt;
+	width           : 436.50pt;
+	height          :  74.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,77 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc270              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc271              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e7              { /* mywebsite052003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e6              { /* mywebsite064003.jpg */
+	position        : absolute;
+	left            : 462.75pt;
+	top             :  82.50pt;
+	width           : 210.75pt;
+	height          : 158.25pt;
+	}
+div#e5              { /* Toute la famille réunie ... */
+	position        : absolute;
+	left            : 456.75pt;
+	top             : 258.00pt;
+	width           : 249.00pt;
+	height          :  38.25pt;
+	}
+img#e4              { /* mywebsite064002.jpg */
+	position        : absolute;
+	left            : 171.75pt;
+	top             : 141.75pt;
+	width           : 171.75pt;
+	height          : 220.50pt;
+	}
+div#e3              { /* Après de bons et loyaux ... */
+	position        : absolute;
+	left            : 146.25pt;
+	top             : 394.50pt;
+	width           : 251.25pt;
+	height          :  56.25pt;
+	}
+img#e2              { /* mywebsite064001.jpg */
+	position        : absolute;
+	left            : 480.00pt;
+	top             : 341.25pt;
+	width           : 189.00pt;
+	height          : 106.50pt;
+	}
+div#e1              { /* Finie la "planque" !\ \R... */
+	position        : absolute;
+	left            : 488.25pt;
+	top             : 471.75pt;
+	width           : 211.50pt;
+	height          :  56.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

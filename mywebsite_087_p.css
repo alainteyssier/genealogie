@@ -1,0 +1,77 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc335              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc336              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e7              { /* mywebsite084003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e6              { /* mywebsite087003.jpg */
+	position        : absolute;
+	left            : 119.25pt;
+	top             : 131.25pt;
+	width           : 189.75pt;
+	height          : 222.75pt;
+	}
+div#e5              { /* 1958 a 4 ans  */
+	position        : absolute;
+	left            : 141.00pt;
+	top             : 363.75pt;
+	width           : 105.75pt;
+	height          :  20.25pt;
+	}
+div#e4              { /* 1963 en colonie   */
+	position        : absolute;
+	left            : 462.75pt;
+	top             : 299.25pt;
+	width           : 137.25pt;
+	height          :  20.25pt;
+	}
+img#e3              { /* mywebsite087002.jpg */
+	position        : absolute;
+	left            : 321.00pt;
+	top             : 340.50pt;
+	width           : 237.75pt;
+	height          : 192.00pt;
+	}
+div#e2              { /* 1969, déja amoureux des ... */
+	position        : absolute;
+	left            : 609.00pt;
+	top             : 391.50pt;
+	width           : 105.75pt;
+	height          :  56.25pt;
+	}
+img#e1              { /* mywebsite087001.jpg */
+	position        : absolute;
+	left            : 438.75pt;
+	top             :  75.00pt;
+	width           : 152.25pt;
+	height          : 208.50pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,77 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc216              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc217              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e7              { /* mywebsite037003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e6              { /* mywebsite043003.jpg */
+	position        : absolute;
+	left            : 166.50pt;
+	top             : 103.50pt;
+	width           : 220.50pt;
+	height          : 144.00pt;
+	}
+img#e5              { /* mywebsite043002.jpg */
+	position        : absolute;
+	left            : 144.75pt;
+	top             : 332.25pt;
+	width           : 225.75pt;
+	height          : 169.50pt;
+	}
+img#e4              { /* mywebsite043001.jpg */
+	position        : absolute;
+	left            : 483.75pt;
+	top             : 238.50pt;
+	width           : 199.50pt;
+	height          : 167.25pt;
+	}
+div#e3              { /* Me voici en 1996 avec mo... */
+	position        : absolute;
+	left            : 408.75pt;
+	top             : 119.25pt;
+	width           : 216.75pt;
+	height          :  56.25pt;
+	}
+div#e2              { /* En 2003 avec maman */
+	position        : absolute;
+	left            : 168.75pt;
+	top             : 512.25pt;
+	width           : 181.50pt;
+	height          :  20.25pt;
+	}
+div#e1              { /* En 1987 avec papa,sur la... */
+	position        : absolute;
+	left            : 488.25pt;
+	top             : 414.75pt;
+	width           : 213.00pt;
+	height          :  56.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/
