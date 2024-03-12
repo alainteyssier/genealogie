@@ -1,0 +1,104 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc844              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc845              { /* Common */
+	font            : bold 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc846              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e10             { /* mywebsite233003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e9              { /* mywebsite007007.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 142.50pt;
+	width           :  57.00pt;
+	height          :  30.75pt;
+	}
+span#e8             { /* mywebsite007006.gif */
+	background      : transparent url(mywebsite007006.gif) no-repeat top left;
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 202.50pt;
+	width           :  58.50pt;
+	height          :  29.25pt;
+	}
+img#e7              { /* mywebsite007005.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 261.75pt;
+	width           :  58.50pt;
+	height          :  28.50pt;
+	}
+div#e6              { /* MENU */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 150.00pt;
+	width           :  60.75pt;
+	height          :  17.25pt;
+	}
+div#e5              { /* SUITE */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 210.00pt;
+	width           :  57.00pt;
+	height          :  26.25pt;
+	}
+div#e4              { /* RETOUR */
+	position        : absolute;
+	left            :   6.75pt;
+	top             : 267.00pt;
+	width           :  68.25pt;
+	height          :  28.50pt;
+	}
+div#e3              { /* <DIV>En 1904 puis en 190... */
+	position        : absolute;
+	left            : 180.00pt;
+	top             :  67.50pt;
+	width           : 428.25pt;
+	height          :  68.25pt;
+	}
+img#e2              { /* mywebsite233002.jpg */
+	position        : absolute;
+	left            : 123.75pt;
+	top             : 165.00pt;
+	width           : 237.00pt;
+	height          : 365.25pt;
+	}
+img#e1              { /* mywebsite233001.jpg */
+	position        : absolute;
+	left            : 461.25pt;
+	top             : 165.00pt;
+	width           : 225.75pt;
+	height          : 368.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

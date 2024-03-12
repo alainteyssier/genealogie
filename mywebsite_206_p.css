@@ -1,0 +1,170 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc713              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc714              { /* Common */
+	font            : bold 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc715              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc716              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	}
+.cc717              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e18             { /* mywebsite206004.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e17             { /* mywebsite007007.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 142.50pt;
+	width           :  57.00pt;
+	height          :  30.75pt;
+	}
+img#e16             { /* mywebsite007006.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 202.50pt;
+	width           :  58.50pt;
+	height          :  29.25pt;
+	}
+img#e15             { /* mywebsite007005.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 261.75pt;
+	width           :  58.50pt;
+	height          :  28.50pt;
+	}
+div#e14             { /* MENU */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 150.00pt;
+	width           :  60.75pt;
+	height          :  17.25pt;
+	}
+div#e13             { /* SUITE */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 210.00pt;
+	width           :  57.00pt;
+	height          :  26.25pt;
+	}
+div#e12             { /* RETOUR */
+	position        : absolute;
+	left            :   6.75pt;
+	top             : 267.00pt;
+	width           :  68.25pt;
+	height          :  28.50pt;
+	}
+img#e11             { /* mywebsite007005.gif */
+	position        : absolute;
+	left            :  12.00pt;
+	top             : 322.50pt;
+	width           :  58.50pt;
+	height          :  28.50pt;
+	}
+div#e10             { /* DOC */
+	position        : absolute;
+	left            :  23.25pt;
+	top             : 330.00pt;
+	width           :  35.25pt;
+	height          :  26.25pt;
+	}
+img#e9              { /* mywebsite007004.gif */
+	position        : absolute;
+	left            :  12.00pt;
+	top             : 374.25pt;
+	width           :  70.50pt;
+	height          :  31.50pt;
+	}
+div#e8              { /* Ascendance */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 383.25pt;
+	width           :  60.00pt;
+	height          :  14.25pt;
+	}
+img#e7              { /* mywebsite007003.gif */
+	position        : absolute;
+	left            :  10.50pt;
+	top             : 422.25pt;
+	width           :  72.75pt;
+	height          :  31.50pt;
+	}
+div#e6              { /* Déscendance */
+	position        : absolute;
+	left            :  17.25pt;
+	top             : 429.75pt;
+	width           :  69.75pt;
+	height          :  15.00pt;
+	}
+div#e5              { /* Il se maria le 14 juille... */
+	position        : absolute;
+	left            : 171.00pt;
+	top             :  94.50pt;
+	width           : 476.25pt;
+	height          :  38.25pt;
+	}
+span#e4             { /* mywebsite206003.jpg */
+	background      : transparent url(mywebsite206003.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 205.50pt;
+	top             : 132.00pt;
+	width           : 165.00pt;
+	height          : 216.00pt;
+	}
+span#e3             { /* mywebsite206002.jpg */
+	background      : transparent url(mywebsite206002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 403.50pt;
+	top             : 143.25pt;
+	width           : 207.00pt;
+	height          : 203.25pt;
+	}
+div#e2              { /* Acte de mariage */
+	position        : absolute;
+	left            : 563.25pt;
+	top             : 438.00pt;
+	width           : 168.00pt;
+	height          :  20.25pt;
+	}
+img#e1              { /* mywebsite206001.jpg */
+	position        : absolute;
+	left            : 324.00pt;
+	top             : 362.25pt;
+	width           : 169.50pt;
+	height          : 183.75pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

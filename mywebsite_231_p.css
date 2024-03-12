@@ -1,0 +1,118 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc835              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc836              { /* Common */
+	font            : bold 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc837              { /* Common */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #ff0000;
+	}
+.cc838              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc839              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #6600ff;
+	}
+img#e11             { /* mywebsite231002.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e10             { /* mywebsite007007.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 142.50pt;
+	width           :  57.00pt;
+	height          :  30.75pt;
+	}
+img#e9              { /* mywebsite007006.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 202.50pt;
+	width           :  58.50pt;
+	height          :  29.25pt;
+	}
+img#e8              { /* mywebsite007005.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 261.75pt;
+	width           :  58.50pt;
+	height          :  28.50pt;
+	}
+div#e7              { /* MENU */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 150.00pt;
+	width           :  60.75pt;
+	height          :  17.25pt;
+	}
+div#e6              { /* SUITE */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 210.00pt;
+	width           :  57.00pt;
+	height          :  26.25pt;
+	}
+div#e5              { /* RETOUR */
+	position        : absolute;
+	left            :   6.75pt;
+	top             : 267.00pt;
+	width           :  68.25pt;
+	height          :  28.50pt;
+	}
+div#e4              { /* Mariage de Guillaume Boy... */
+	position        : absolute;
+	left            : 204.00pt;
+	top             :  60.75pt;
+	width           : 447.00pt;
+	height          :  21.00pt;
+	}
+div#e3              { /* Le 13 avril 1899 à Espin... */
+	position        : absolute;
+	left            : 146.25pt;
+	top             :  82.50pt;
+	width           : 507.00pt;
+	height          :  23.25pt;
+	}
+div#e2              { /* Voici l'arbre qui permet... */
+	position        : absolute;
+	left            : 168.75pt;
+	top             : 112.50pt;
+	width           : 410.25pt;
+	height          :  19.50pt;
+	}
+img#e1              { /* mywebsite231001.jpg */
+	position        : absolute;
+	left            : 191.25pt;
+	top             : 142.50pt;
+	width           : 430.50pt;
+	height          : 422.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

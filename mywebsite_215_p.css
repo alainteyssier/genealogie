@@ -1,0 +1,175 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc757              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc758              { /* Common */
+	font            : bold 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc759              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc760              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	}
+.cc761              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e19             { /* mywebsite215004.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e18             { /* mywebsite007007.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 142.50pt;
+	width           :  57.00pt;
+	height          :  30.75pt;
+	}
+img#e17             { /* mywebsite007006.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 202.50pt;
+	width           :  58.50pt;
+	height          :  29.25pt;
+	}
+img#e16             { /* mywebsite007005.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 261.75pt;
+	width           :  58.50pt;
+	height          :  28.50pt;
+	}
+div#e15             { /* MENU */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 150.00pt;
+	width           :  60.75pt;
+	height          :  17.25pt;
+	}
+div#e14             { /* SUITE */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 210.00pt;
+	width           :  57.00pt;
+	height          :  26.25pt;
+	}
+div#e13             { /* RETOUR */
+	position        : absolute;
+	left            :   6.75pt;
+	top             : 267.00pt;
+	width           :  68.25pt;
+	height          :  28.50pt;
+	}
+img#e12             { /* mywebsite007005.gif */
+	position        : absolute;
+	left            :  12.00pt;
+	top             : 322.50pt;
+	width           :  58.50pt;
+	height          :  28.50pt;
+	}
+div#e11             { /* DOC */
+	position        : absolute;
+	left            :  23.25pt;
+	top             : 330.00pt;
+	width           :  35.25pt;
+	height          :  26.25pt;
+	}
+img#e10             { /* mywebsite007004.gif */
+	position        : absolute;
+	left            :  12.00pt;
+	top             : 374.25pt;
+	width           :  70.50pt;
+	height          :  31.50pt;
+	}
+div#e9              { /* Ascendance */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 383.25pt;
+	width           :  60.00pt;
+	height          :  14.25pt;
+	}
+img#e8              { /* mywebsite007003.gif */
+	position        : absolute;
+	left            :  10.50pt;
+	top             : 422.25pt;
+	width           :  72.75pt;
+	height          :  31.50pt;
+	}
+div#e7              { /* Déscendance */
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 431.25pt;
+	width           :  69.75pt;
+	height          :  15.00pt;
+	}
+div#e6              { /* De cette union, est née ... */
+	position        : absolute;
+	left            : 170.25pt;
+	top             : 111.00pt;
+	width           : 335.25pt;
+	height          :  92.25pt;
+	}
+img#e5              { /* mywebsite215003.jpg */
+	position        : absolute;
+	left            : 546.00pt;
+	top             :  86.25pt;
+	width           : 102.00pt;
+	height          : 159.00pt;
+	}
+div#e4              { /* Après un an de veuvage, ... */
+	position        : absolute;
+	left            : 162.75pt;
+	top             : 321.75pt;
+	width           : 318.75pt;
+	height          :  74.25pt;
+	}
+img#e3              { /* mywebsite215002.jpg */
+	position        : absolute;
+	left            : 519.00pt;
+	top             : 290.25pt;
+	width           :  93.75pt;
+	height          : 114.00pt;
+	}
+div#e2              { /* De cette nouvelle union ... */
+	position        : absolute;
+	left            : 159.00pt;
+	top             : 484.50pt;
+	width           : 298.50pt;
+	height          :  56.25pt;
+	}
+img#e1              { /* mywebsite215001.jpg */
+	position        : absolute;
+	left            : 474.00pt;
+	top             : 444.75pt;
+	width           : 100.50pt;
+	height          : 114.00pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

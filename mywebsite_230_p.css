@@ -1,0 +1,153 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc828              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc829              { /* Common */
+	font            : bold 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc830              { /* Common */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #ff0000;
+	}
+.cc831              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc832              { /* Common */
+	font            : italic 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc833              { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc834              { /* Common */
+	border          :   0.75pt solid #000000;
+	}
+img#e15             { /* mywebsite230003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e14             { /* mywebsite007007.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 142.50pt;
+	width           :  57.00pt;
+	height          :  30.75pt;
+	}
+img#e13             { /* mywebsite007006.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 202.50pt;
+	width           :  58.50pt;
+	height          :  29.25pt;
+	}
+img#e12             { /* mywebsite007005.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 261.75pt;
+	width           :  58.50pt;
+	height          :  28.50pt;
+	}
+div#e11             { /* MENU */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 150.00pt;
+	width           :  60.75pt;
+	height          :  17.25pt;
+	}
+div#e10             { /* SUITE */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 210.00pt;
+	width           :  57.00pt;
+	height          :  26.25pt;
+	}
+div#e9              { /* RETOUR */
+	position        : absolute;
+	left            :   6.75pt;
+	top             : 267.00pt;
+	width           :  68.25pt;
+	height          :  28.50pt;
+	}
+div#e8              { /* Mariage de Guillaume Boy... */
+	position        : absolute;
+	left            : 191.25pt;
+	top             :  82.50pt;
+	width           : 425.25pt;
+	height          :  39.75pt;
+	}
+div#e7              { /* Le 13 avril 1899 à Espin... */
+	position        : absolute;
+	left            : 146.25pt;
+	top             : 112.50pt;
+	width           : 507.00pt;
+	height          :  23.25pt;
+	}
+div#e6              { /* En ce temps là ............ */
+	position        : absolute;
+	left            : 135.00pt;
+	top             : 157.50pt;
+	width           : 214.50pt;
+	height          :  20.25pt;
+	}
+div#e5              { /* Freud publie l'interprét... */
+	position        : absolute;
+	left            : 168.75pt;
+	top             : 180.00pt;
+	width           : 230.25pt;
+	height          :  77.25pt;
+	}
+img#e4              { /* mywebsite230002.jpg */
+	position        : absolute;
+	left            : 111.75pt;
+	top             : 306.75pt;
+	width           : 293.25pt;
+	height          : 194.25pt;
+	}
+img#e3              { /* mywebsite230001.jpg */
+	position        : absolute;
+	left            : 450.00pt;
+	top             : 187.50pt;
+	width           : 237.75pt;
+	height          : 317.25pt;
+	}
+div#e2              { /* Les moyens de transport */
+	position        : absolute;
+	left            : 168.75pt;
+	top             : 510.00pt;
+	width           : 214.50pt;
+	height          :  20.25pt;
+	}
+div#e1              { /* La mode vers 1900 */
+	position        : absolute;
+	left            : 517.50pt;
+	top             : 517.50pt;
+	width           : 147.00pt;
+	height          :  20.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

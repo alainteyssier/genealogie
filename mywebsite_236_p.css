@@ -1,0 +1,133 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc854              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc855              { /* Common */
+	font            : bold 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc856              { /* Common */
+	border          :   0.75pt solid #ffcc00;
+	}
+.cc857              { /* Common */
+	border          :   1.50pt solid #ffcc00;
+	}
+.cc858              { /* Common */
+	border          :   1.50pt solid #ff0000;
+	}
+.cc859              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	border          :   1.50pt solid #808080;
+	padding         :   0.75pt;
+	}
+.cc860              { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e12             { /* mywebsite236004.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e11             { /* mywebsite007007.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 142.50pt;
+	width           :  57.00pt;
+	height          :  30.75pt;
+	}
+span#e10            { /* mywebsite007006.gif */
+	background      : transparent url(mywebsite007006.gif) no-repeat top left;
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 202.50pt;
+	width           :  58.50pt;
+	height          :  29.25pt;
+	}
+img#e9              { /* mywebsite234004.gif */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 261.75pt;
+	width           :  62.25pt;
+	height          :  28.50pt;
+	}
+div#e8              { /* MENU */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 150.00pt;
+	width           :  60.75pt;
+	height          :  17.25pt;
+	}
+div#e7              { /* SUITE */
+	position        : absolute;
+	left            :  11.25pt;
+	top             : 210.00pt;
+	width           :  57.00pt;
+	height          :  26.25pt;
+	}
+div#e6              { /* RETOUR */
+	position        : absolute;
+	left            :   6.75pt;
+	top             : 267.00pt;
+	width           :  72.00pt;
+	height          :  28.50pt;
+	}
+img#e5              { /* mywebsite236003.jpg */
+	position        : absolute;
+	left            :  89.25pt;
+	top             : 164.25pt;
+	width           : 214.50pt;
+	height          : 321.00pt;
+	}
+img#e4              { /* mywebsite236002.jpg */
+	position        : absolute;
+	left            : 504.75pt;
+	top             : 163.50pt;
+	width           : 203.25pt;
+	height          : 315.75pt;
+	}
+img#e3              { /* mywebsite236001.jpg */
+	position        : absolute;
+	left            : 324.75pt;
+	top             : 231.00pt;
+	width           : 158.25pt;
+	height          : 197.25pt;
+	}
+div#e2              { /* <DIV>Lettre du 11 mars 1... */
+	position        : absolute;
+	left            : 112.50pt;
+	top             :  60.00pt;
+	width           : 526.50pt;
+	height          :  64.50pt;
+	}
+div#e1              { /* <DIV>Alain sur son lit d... */
+	position        : absolute;
+	left            : 315.00pt;
+	top             : 465.00pt;
+	width           : 192.00pt;
+	height          :  60.75pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/
