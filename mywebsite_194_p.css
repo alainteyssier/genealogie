@@ -1,0 +1,166 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc655              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc656              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc657              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	}
+.cc658              { /* Common */
+	font            : bold 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc659              { /* Common */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #ff0000;
+	}
+.cc660              { /* Common */
+	border          :   0.75pt solid #000000;
+	}
+.cc661              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc662              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e16             { /* mywebsite194006.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e15             { /* mywebsite007004.gif */
+	position        : absolute;
+	left            :  12.00pt;
+	top             : 374.25pt;
+	width           :  70.50pt;
+	height          :  31.50pt;
+	}
+div#e14             { /* Ascendance */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 383.25pt;
+	width           :  60.00pt;
+	height          :  14.25pt;
+	}
+img#e13             { /* mywebsite007003.gif */
+	position        : absolute;
+	left            :  10.50pt;
+	top             : 422.25pt;
+	width           :  72.75pt;
+	height          :  31.50pt;
+	}
+div#e12             { /* Déscendance */
+	position        : absolute;
+	left            :  18.75pt;
+	top             : 431.25pt;
+	width           :  69.75pt;
+	height          :  15.00pt;
+	}
+img#e11             { /* mywebsite007007.gif */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 148.50pt;
+	width           :  57.00pt;
+	height          :  30.75pt;
+	}
+div#e10             { /* MENU */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 156.00pt;
+	width           :  60.75pt;
+	height          :  17.25pt;
+	}
+div#e9              { /* 1892, année de sa naissa... */
+	position        : absolute;
+	left            : 247.50pt;
+	top             :  60.00pt;
+	width           : 280.50pt;
+	height          :  20.25pt;
+	}
+img#e8              { /* mywebsite194005.jpg */
+	position        : absolute;
+	left            : 314.25pt;
+	top             : 336.75pt;
+	width           : 214.50pt;
+	height          : 168.00pt;
+	}
+img#e7              { /* mywebsite194004.jpg */
+	position        : absolute;
+	left            : 471.75pt;
+	top             : 111.75pt;
+	width           : 247.50pt;
+	height          : 171.00pt;
+	}
+img#e6              { /* mywebsite194003.jpg */
+	position        : absolute;
+	left            : 112.50pt;
+	top             : 322.50pt;
+	width           : 135.75pt;
+	height          : 180.00pt;
+	}
+img#e5              { /* mywebsite194002.jpg */
+	position        : absolute;
+	left            : 573.75pt;
+	top             : 322.50pt;
+	width           : 147.00pt;
+	height          : 193.50pt;
+	}
+img#e4              { /* mywebsite194001.jpg */
+	position        : absolute;
+	left            : 111.75pt;
+	top             : 111.75pt;
+	width           : 248.25pt;
+	height          : 165.75pt;
+	}
+div#e3              { /* Paris\ \en\ \1892  */
+	position        : absolute;
+	left            : 382.50pt;
+	top             : 150.00pt;
+	width           :  68.25pt;
+	height          :  56.25pt;
+	}
+div#e2              { /* Les jeunes filles de Ren... */
+	position        : absolute;
+	left            :  99.75pt;
+	top             : 520.50pt;
+	width           : 182.25pt;
+	height          :  27.75pt;
+	}
+div#e1              { /* La marine marchande */
+	position        : absolute;
+	left            : 355.50pt;
+	top             : 516.00pt;
+	width           : 196.50pt;
+	height          :  20.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

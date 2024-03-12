@@ -1,0 +1,56 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc427              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc428              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e4              { /* mywebsite115003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+div#e3              { /* Elle est décédée le 17 j... */
+	position        : absolute;
+	left            : 213.75pt;
+	top             : 142.50pt;
+	width           : 345.00pt;
+	height          :  38.25pt;
+	}
+img#e2              { /* mywebsite124001.jpg */
+	position        : absolute;
+	left            : 202.50pt;
+	top             : 210.00pt;
+	width           : 369.00pt;
+	height          : 213.00pt;
+	}
+div#e1              { /* Voici sa tombe dans le p... */
+	position        : absolute;
+	left            : 281.25pt;
+	top             : 450.00pt;
+	width           : 259.50pt;
+	height          :  56.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,85 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc410              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc411              { /* Common */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #ff0000;
+	}
+.cc412              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #ff0000;
+	}
+.cc413              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #3366ff;
+	}
+img#e7              { /* mywebsite115003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+div#e6              { /* Voici le contrat de mari... */
+	position        : absolute;
+	left            : 146.25pt;
+	top             :  52.50pt;
+	width           : 525.00pt;
+	height          :  21.00pt;
+	}
+img#e5              { /* mywebsite118003.jpg */
+	position        : absolute;
+	left            : 348.75pt;
+	top             :  82.50pt;
+	width           : 362.25pt;
+	height          : 477.75pt;
+	}
+div#e4              { /* 1845, c'était  l'époque ... */
+	position        : absolute;
+	left            : 123.75pt;
+	top             : 112.50pt;
+	width           : 225.75pt;
+	height          : 128.25pt;
+	}
+img#e3              { /* mywebsite118002.jpg */
+	position        : absolute;
+	left            : 213.75pt;
+	top             : 255.00pt;
+	width           : 108.00pt;
+	height          : 136.50pt;
+	}
+img#e2              { /* mywebsite118001.jpg */
+	position        : absolute;
+	left            : 101.25pt;
+	top             : 412.50pt;
+	width           : 200.25pt;
+	height          : 129.00pt;
+	}
+div#e1              { /* La mode et le moyen de t... */
+	position        : absolute;
+	left            : 101.25pt;
+	top             : 292.50pt;
+	width           : 105.75pt;
+	height          :  74.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

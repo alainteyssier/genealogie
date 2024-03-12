@@ -1,0 +1,84 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc542              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc543              { /* Common */
+	border          :   0.00pt none #00ffff;
+	}
+.cc544              { /* Common */
+	font            : bold 14pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc545              { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e7              { /* mywebsite170002.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e6              { /* mywebsite170001.gif */
+	position        : absolute;
+	left            : 591.75pt;
+	top             : 509.25pt;
+	width           : 123.00pt;
+	height          :  42.75pt;
+	}
+div#e5              { /* SUITE  */
+	position        : absolute;
+	left            : 628.50pt;
+	top             : 516.75pt;
+	width           :  56.25pt;
+	height          :  25.50pt;
+	}
+div#e4              { /* Carte d'électeur en 1937 */
+	position        : absolute;
+	left            : 137.25pt;
+	top             : 309.75pt;
+	width           : 146.25pt;
+	height          :  17.25pt;
+	}
+div#e3              { /* Ordre de réquisition d'u... */
+	position        : absolute;
+	left            : 132.00pt;
+	top             : 521.25pt;
+	width           : 175.50pt;
+	height          :  32.25pt;
+	}
+div#e2              { /* Lettre d'embauche en 194... */
+	position        : absolute;
+	left            : 343.50pt;
+	top             : 449.25pt;
+	width           : 166.50pt;
+	height          :  23.25pt;
+	}
+div#e1              { /* Sa carte d'identité en 1... */
+	position        : absolute;
+	left            : 552.75pt;
+	top             : 396.75pt;
+	width           : 163.50pt;
+	height          :  21.75pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

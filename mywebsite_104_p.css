@@ -1,0 +1,60 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc377              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc378              { /* Common */
+	font            : bold 14pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc379              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e4              { /* mywebsite096003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+div#e3              { /* Il est décédé le 11 nove... */
+	position        : absolute;
+	left            : 217.50pt;
+	top             : 275.25pt;
+	width           : 278.25pt;
+	height          :  31.50pt;
+	}
+div#e2              { /* Il a eu deux frères, \ \... */
+	position        : absolute;
+	left            : 217.50pt;
+	top             :  96.75pt;
+	width           : 348.75pt;
+	height          : 128.25pt;
+	}
+img#e1              { /* mywebsite104001.jpg */
+	position        : absolute;
+	left            : 183.75pt;
+	top             : 315.75pt;
+	width           : 345.00pt;
+	height          : 210.75pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

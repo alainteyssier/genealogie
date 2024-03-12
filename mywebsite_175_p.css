@@ -1,0 +1,112 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc559              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc560              { /* Common */
+	font            : bold 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc561              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc562              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	}
+.cc563              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e10             { /* mywebsite175003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e9              { /* mywebsite007007.gif */
+	position        : absolute;
+	left            :  15.75pt;
+	top             : 148.50pt;
+	width           :  57.00pt;
+	height          :  30.75pt;
+	}
+div#e8              { /* MENU */
+	position        : absolute;
+	left            :  15.75pt;
+	top             : 156.00pt;
+	width           :  60.75pt;
+	height          :  17.25pt;
+	}
+img#e7              { /* mywebsite007004.gif */
+	position        : absolute;
+	left            :  12.00pt;
+	top             : 374.25pt;
+	width           :  70.50pt;
+	height          :  31.50pt;
+	}
+div#e6              { /* Ascendance */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 383.25pt;
+	width           :  60.00pt;
+	height          :  14.25pt;
+	}
+img#e5              { /* mywebsite007003.gif */
+	position        : absolute;
+	left            :  10.50pt;
+	top             : 422.25pt;
+	width           :  72.75pt;
+	height          :  31.50pt;
+	}
+div#e4              { /* Déscendance */
+	position        : absolute;
+	left            :  20.25pt;
+	top             : 430.50pt;
+	width           :  69.75pt;
+	height          :  15.00pt;
+	}
+img#e3              { /* mywebsite175002.jpg */
+	position        : absolute;
+	left            : 130.50pt;
+	top             :  81.75pt;
+	width           : 347.25pt;
+	height          : 435.00pt;
+	}
+img#e2              { /* mywebsite175001.jpg */
+	position        : absolute;
+	left            : 527.25pt;
+	top             : 193.50pt;
+	width           : 170.25pt;
+	height          : 223.50pt;
+	}
+div#e1              { /* Ses 4 enfants en 1958 */
+	position        : absolute;
+	left            : 554.25pt;
+	top             : 429.75pt;
+	width           : 161.25pt;
+	height          :  20.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,61 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc370              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc371              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc372              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e4              { /* mywebsite096003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+div#e3              { /* Il s'est marié le 11 oct... */
+	position        : absolute;
+	left            : 225.00pt;
+	top             : 119.25pt;
+	width           : 390.75pt;
+	height          :  38.25pt;
+	}
+img#e2              { /* mywebsite101001.jpg */
+	position        : absolute;
+	left            : 236.25pt;
+	top             : 181.50pt;
+	width           : 339.00pt;
+	height          : 246.75pt;
+	}
+div#e1              { /* Photo de 1890, prise à l... */
+	position        : absolute;
+	left            : 270.00pt;
+	top             : 457.50pt;
+	width           : 338.25pt;
+	height          :  45.75pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

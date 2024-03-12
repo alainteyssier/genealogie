@@ -1,0 +1,56 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc373              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc374              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e4              { /* mywebsite096003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e3              { /* mywebsite102001.jpg */
+	position        : absolute;
+	left            : 188.25pt;
+	top             :  67.50pt;
+	width           : 384.00pt;
+	height          : 294.75pt;
+	}
+div#e2              { /* Ils eurent deux enfants,... */
+	position        : absolute;
+	left            : 185.25pt;
+	top             : 417.00pt;
+	width           : 440.25pt;
+	height          :  56.25pt;
+	}
+div#e1              { /* Livret de famille Breyss... */
+	position        : absolute;
+	left            : 617.25pt;
+	top             : 188.25pt;
+	width           :  96.75pt;
+	height          :  59.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,95 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc422              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc423              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc424              { /* Common */
+	border          :   0.75pt solid #000000;
+	}
+.cc425              { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc426              { /* Common */
+	font            : italic 12pt 'Arial', Helvetica, sans-serif;
+	color           : #ff0000;
+	}
+img#e8              { /* mywebsite115003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e7              { /* mywebsite123003.jpg */
+	position        : absolute;
+	left            : 139.50pt;
+	top             : 102.75pt;
+	width           : 306.75pt;
+	height          : 204.75pt;
+	}
+img#e6              { /* mywebsite123002.jpg */
+	position        : absolute;
+	left            : 495.75pt;
+	top             : 185.25pt;
+	width           : 183.75pt;
+	height          : 266.25pt;
+	}
+div#e5              { /* Elle a toujours été pass... */
+	position        : absolute;
+	left            : 157.50pt;
+	top             : 330.00pt;
+	width           : 315.75pt;
+	height          :  45.75pt;
+	}
+div#e4              { /* Jusqu'à la fin, elle s'e... */
+	position        : absolute;
+	left            : 498.75pt;
+	top             : 470.25pt;
+	width           : 199.50pt;
+	height          :  38.25pt;
+	}
+img#e3              { /* mywebsite123001.jpg */
+	position        : absolute;
+	left            : 179.25pt;
+	top             : 406.50pt;
+	width           : 112.50pt;
+	height          : 125.25pt;
+	}
+div#e2              { /* Sa 2eme fille, Léone Bre... */
+	position        : absolute;
+	left            : 303.75pt;
+	top             : 435.00pt;
+	width           : 117.00pt;
+	height          :  45.75pt;
+	}
+div#e1              { /* Cliquez sur la photo   */
+	position        : absolute;
+	left            : 303.75pt;
+	top             : 487.50pt;
+	width           : 140.25pt;
+	height          :  20.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

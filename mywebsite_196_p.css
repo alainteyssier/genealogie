@@ -1,0 +1,87 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc667              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc668              { /* Common */
+	font            : bold 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc669              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc670              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	}
+img#e7              { /* mywebsite196001.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e6              { /* mywebsite007007.gif */
+	position        : absolute;
+	left            :  17.25pt;
+	top             : 147.00pt;
+	width           :  57.00pt;
+	height          :  30.75pt;
+	}
+div#e5              { /* MENU */
+	position        : absolute;
+	left            :  17.25pt;
+	top             : 154.50pt;
+	width           :  60.75pt;
+	height          :  17.25pt;
+	}
+img#e4              { /* mywebsite007004.gif */
+	position        : absolute;
+	left            :  16.50pt;
+	top             : 374.25pt;
+	width           :  70.50pt;
+	height          :  31.50pt;
+	}
+div#e3              { /* Ascendance */
+	position        : absolute;
+	left            :  19.50pt;
+	top             : 383.25pt;
+	width           :  60.00pt;
+	height          :  14.25pt;
+	}
+img#e2              { /* mywebsite007003.gif */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 422.25pt;
+	width           :  72.75pt;
+	height          :  31.50pt;
+	}
+div#e1              { /* Déscendance */
+	position        : absolute;
+	left            :  20.25pt;
+	top             : 429.75pt;
+	width           :  69.75pt;
+	height          :  15.00pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,112 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc604              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc605              { /* Common */
+	font            : bold 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc606              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc607              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	}
+.cc608              { /* Common */
+	font            : 8pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e10             { /* mywebsite184001.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e9              { /* mywebsite007007.gif */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 144.00pt;
+	width           :  57.00pt;
+	height          :  30.75pt;
+	}
+div#e8              { /* MENU */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 151.50pt;
+	width           :  60.75pt;
+	height          :  17.25pt;
+	}
+img#e7              { /* mywebsite007004.gif */
+	position        : absolute;
+	left            :  12.00pt;
+	top             : 374.25pt;
+	width           :  70.50pt;
+	height          :  31.50pt;
+	}
+div#e6              { /* Ascendance */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 383.25pt;
+	width           :  60.00pt;
+	height          :  14.25pt;
+	}
+img#e5              { /* mywebsite007003.gif */
+	position        : absolute;
+	left            :  10.50pt;
+	top             : 422.25pt;
+	width           :  72.75pt;
+	height          :  31.50pt;
+	}
+div#e4              { /* Déscendance */
+	position        : absolute;
+	left            :  21.75pt;
+	top             : 429.75pt;
+	width           :  69.75pt;
+	height          :  15.00pt;
+	}
+div#e3              { /* 1960  */
+	position        : absolute;
+	left            : 144.75pt;
+	top             : 354.00pt;
+	width           :  25.50pt;
+	height          :  18.00pt;
+	}
+div#e2              { /* 1954 */
+	position        : absolute;
+	left            : 591.75pt;
+	top             : 314.25pt;
+	width           :  22.50pt;
+	height          :  18.00pt;
+	}
+div#e1              { /* 2004 */
+	position        : absolute;
+	left            : 282.00pt;
+	top             : 480.00pt;
+	width           :  22.50pt;
+	height          :  18.00pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

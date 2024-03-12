@@ -1,0 +1,116 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc546              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc547              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc548              { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e12             { /* mywebsite171007.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e11             { /* mywebsite171006.jpg */
+	position        : absolute;
+	left            : 123.00pt;
+	top             : 160.50pt;
+	width           : 123.75pt;
+	height          : 164.25pt;
+	}
+div#e10             { /* Livret militaire */
+	position        : absolute;
+	left            : 129.75pt;
+	top             : 333.00pt;
+	width           : 114.00pt;
+	height          :  20.25pt;
+	}
+img#e9              { /* mywebsite171005.jpg */
+	position        : absolute;
+	left            : 339.75pt;
+	top             : 176.25pt;
+	width           : 153.00pt;
+	height          : 128.25pt;
+	}
+div#e8              { /* Vidéo à 93 ans */
+	position        : absolute;
+	left            : 363.75pt;
+	top             : 327.00pt;
+	width           : 156.00pt;
+	height          :  20.25pt;
+	}
+img#e7              { /* mywebsite171004.jpg */
+	position        : absolute;
+	left            : 546.75pt;
+	top             : 176.25pt;
+	width           : 151.50pt;
+	height          : 137.25pt;
+	}
+div#e6              { /* Papa monte au pied du Fr... */
+	position        : absolute;
+	left            : 540.00pt;
+	top             : 325.50pt;
+	width           : 174.00pt;
+	height          :  56.25pt;
+	}
+img#e5              { /* mywebsite171003.jpg */
+	position        : absolute;
+	left            : 146.25pt;
+	top             : 405.00pt;
+	width           : 125.25pt;
+	height          :  81.75pt;
+	}
+img#e4              { /* mywebsite171002.jpg */
+	position        : absolute;
+	left            : 371.25pt;
+	top             : 390.00pt;
+	width           :  87.00pt;
+	height          : 113.25pt;
+	}
+img#e3              { /* mywebsite171001.jpg */
+	position        : absolute;
+	left            : 495.00pt;
+	top             : 390.00pt;
+	width           :  90.75pt;
+	height          : 113.25pt;
+	}
+div#e2              { /* <DIV>Carte d'alimentatio... */
+	position        : absolute;
+	left            : 135.00pt;
+	top             : 502.50pt;
+	width           : 135.75pt;
+	height          :  38.25pt;
+	}
+div#e1              { /* <DIV>Ordre de réquisitio... */
+	position        : absolute;
+	left            : 393.75pt;
+	top             : 510.00pt;
+	width           : 211.50pt;
+	height          :  60.75pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,180 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc564              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc565              { /* Common */
+	font            : bold 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc566              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc567              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	}
+.cc568              { /* Common */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #ff0000;
+	}
+.cc569              { /* Common */
+	border          :   0.75pt solid #000000;
+	}
+.cc570              { /* Common */
+	border          :   1.50pt solid #ffff00;
+	}
+.cc571              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e18             { /* mywebsite176006.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e17             { /* mywebsite007007.gif */
+	position        : absolute;
+	left            :  10.50pt;
+	top             : 148.50pt;
+	width           :  57.00pt;
+	height          :  30.75pt;
+	}
+div#e16             { /* MENU */
+	position        : absolute;
+	left            :  10.50pt;
+	top             : 156.00pt;
+	width           :  60.75pt;
+	height          :  17.25pt;
+	}
+img#e15             { /* mywebsite007004.gif */
+	position        : absolute;
+	left            :  12.00pt;
+	top             : 374.25pt;
+	width           :  70.50pt;
+	height          :  31.50pt;
+	}
+div#e14             { /* Ascendance */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 383.25pt;
+	width           :  60.00pt;
+	height          :  14.25pt;
+	}
+img#e13             { /* mywebsite007003.gif */
+	position        : absolute;
+	left            :  10.50pt;
+	top             : 422.25pt;
+	width           :  72.75pt;
+	height          :  31.50pt;
+	}
+div#e12             { /* Déscendance */
+	position        : absolute;
+	left            :  18.00pt;
+	top             : 432.00pt;
+	width           :  69.75pt;
+	height          :  15.00pt;
+	}
+div#e11             { /* Elle est née le 30 janvi... */
+	position        : absolute;
+	left            : 197.25pt;
+	top             :  55.50pt;
+	width           : 405.75pt;
+	height          :  20.25pt;
+	}
+img#e10             { /* mywebsite176005.jpg */
+	border          :   0.75pt solid #000000;
+	background-color: transparent;
+	position        : absolute;
+	left            : 100.50pt;
+	top             :  89.25pt;
+	width           : 259.50pt;
+	height          : 157.50pt;
+	}
+img#e9              { /* mywebsite176004.jpg */
+	position        : absolute;
+	left            : 427.50pt;
+	top             :  90.00pt;
+	width           : 246.75pt;
+	height          : 163.50pt;
+	}
+img#e8              { /* mywebsite176003.jpg */
+	position        : absolute;
+	left            : 122.25pt;
+	top             : 288.75pt;
+	width           : 182.25pt;
+	height          : 234.00pt;
+	}
+img#e7              { /* mywebsite176002.jpg */
+	position        : absolute;
+	left            : 461.25pt;
+	top             : 299.25pt;
+	width           : 231.00pt;
+	height          : 186.00pt;
+	}
+img#e6              { /* mywebsite176001.jpg */
+	position        : absolute;
+	left            : 315.00pt;
+	top             : 272.25pt;
+	width           : 135.75pt;
+	height          : 150.75pt;
+	}
+div#e5              { /* Paris de nouveau insouci... */
+	position        : absolute;
+	left            : 138.75pt;
+	top             : 260.25pt;
+	width           : 197.25pt;
+	height          :  20.25pt;
+	}
+div#e4              { /* La ruralité en 1919  */
+	position        : absolute;
+	left            : 494.25pt;
+	top             : 264.00pt;
+	width           : 142.50pt;
+	height          :  20.25pt;
+	}
+div#e3              { /* Clémenceau venant de sig... */
+	position        : absolute;
+	left            : 466.50pt;
+	top             : 501.75pt;
+	width           : 262.50pt;
+	height          :  38.25pt;
+	}
+div#e2              { /* La mode en 1919 */
+	position        : absolute;
+	left            : 156.75pt;
+	top             : 531.00pt;
+	width           : 126.75pt;
+	height          :  20.25pt;
+	}
+div#e1              { /* Naissance de Lino Ventur... */
+	position        : absolute;
+	left            : 337.50pt;
+	top             : 425.25pt;
+	width           :  99.75pt;
+	height          :  38.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

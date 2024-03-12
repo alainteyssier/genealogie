@@ -1,0 +1,131 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc683              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc684              { /* Common */
+	font            : bold 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc685              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc686              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	}
+.cc687              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc688              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+img#e12             { /* mywebsite200001.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e11             { /* mywebsite007007.gif */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 147.00pt;
+	width           :  57.00pt;
+	height          :  30.75pt;
+	}
+div#e10             { /* MENU */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 154.50pt;
+	width           :  60.75pt;
+	height          :  17.25pt;
+	}
+img#e9              { /* mywebsite007004.gif */
+	position        : absolute;
+	left            :  17.25pt;
+	top             : 375.00pt;
+	width           :  70.50pt;
+	height          :  31.50pt;
+	}
+div#e8              { /* Ascendance */
+	position        : absolute;
+	left            :  20.25pt;
+	top             : 384.00pt;
+	width           :  60.00pt;
+	height          :  14.25pt;
+	}
+img#e7              { /* mywebsite007003.gif */
+	position        : absolute;
+	left            :  15.75pt;
+	top             : 423.00pt;
+	width           :  72.75pt;
+	height          :  31.50pt;
+	}
+div#e6              { /* Déscendance */
+	position        : absolute;
+	left            :  22.50pt;
+	top             : 432.00pt;
+	width           :  69.75pt;
+	height          :  15.00pt;
+	}
+div#e5              { /* Billet congés annuels */
+	position        : absolute;
+	left            : 264.00pt;
+	top             : 267.00pt;
+	width           : 144.75pt;
+	height          :  22.50pt;
+	}
+div#e4              { /* Recettes */
+	position        : absolute;
+	left            : 138.00pt;
+	top             : 459.75pt;
+	width           :  77.25pt;
+	height          :  20.25pt;
+	}
+div#e3              { /* Petite vidéo tournée à B... */
+	position        : absolute;
+	left            : 292.50pt;
+	top             : 430.50pt;
+	width           : 123.00pt;
+	height          :  38.25pt;
+	}
+div#e2              { /* Traite pour son magasin ... */
+	position        : absolute;
+	left            : 504.75pt;
+	top             : 444.00pt;
+	width           : 147.75pt;
+	height          :  38.25pt;
+	}
+div#e1              { /* en 1910 à l'usine de Rom... */
+	position        : absolute;
+	left            : 510.00pt;
+	top             : 311.25pt;
+	width           : 198.00pt;
+	height          :  38.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

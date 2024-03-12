@@ -1,0 +1,98 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc538              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc539              { /* Common */
+	border          :   0.00pt none #00ffff;
+	}
+.cc540              { /* Common */
+	font            : bold 14pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc541              { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e9              { /* mywebsite169002.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e8              { /* mywebsite169001.gif */
+	position        : absolute;
+	left            : 591.75pt;
+	top             : 509.25pt;
+	width           : 123.00pt;
+	height          :  42.75pt;
+	}
+div#e7              { /* SUITE  */
+	position        : absolute;
+	left            : 628.50pt;
+	top             : 516.75pt;
+	width           :  56.25pt;
+	height          :  25.50pt;
+	}
+div#e6              { /* Bonne conduite lors de s... */
+	position        : absolute;
+	left            : 108.75pt;
+	top             : 310.50pt;
+	width           : 146.25pt;
+	height          :  34.50pt;
+	}
+div#e5              { /* Carnet de démobilisation */
+	position        : absolute;
+	left            : 336.75pt;
+	top             : 301.50pt;
+	width           : 146.25pt;
+	height          :  17.25pt;
+	}
+div#e4              { /* Impôt consernant la livr... */
+	position        : absolute;
+	left            : 585.00pt;
+	top             : 276.75pt;
+	width           : 117.00pt;
+	height          :  32.25pt;
+	}
+div#e3              { /* Bail pour la location d'... */
+	position        : absolute;
+	left            : 129.00pt;
+	top             : 523.50pt;
+	width           : 124.50pt;
+	height          :  32.25pt;
+	}
+div#e2              { /* Ancienne taxe locative */
+	position        : absolute;
+	left            : 334.50pt;
+	top             : 527.25pt;
+	width           : 146.25pt;
+	height          :  17.25pt;
+	}
+div#e1              { /* Quitance de loyer   */
+	position        : absolute;
+	left            : 588.00pt;
+	top             : 460.50pt;
+	width           : 113.25pt;
+	height          :  17.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

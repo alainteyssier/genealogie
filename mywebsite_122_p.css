@@ -1,0 +1,63 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc420              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc421              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e5              { /* mywebsite115003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e4              { /* mywebsite122002.jpg */
+	position        : absolute;
+	left            : 126.75pt;
+	top             :  94.50pt;
+	width           : 189.75pt;
+	height          : 279.00pt;
+	}
+img#e3              { /* mywebsite122001.jpg */
+	position        : absolute;
+	left            : 448.50pt;
+	top             : 101.25pt;
+	width           : 168.00pt;
+	height          : 270.75pt;
+	}
+div#e2              { /* Vers 1922, avec ses deux... */
+	position        : absolute;
+	left            : 129.75pt;
+	top             : 403.50pt;
+	width           : 221.25pt;
+	height          :  56.25pt;
+	}
+div#e1              { /* Ici, avec ses deux arriè... */
+	position        : absolute;
+	left            : 461.25pt;
+	top             : 417.75pt;
+	width           : 222.75pt;
+	height          :  56.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

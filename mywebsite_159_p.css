@@ -1,0 +1,49 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc522              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc523              { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e3              { /* mywebsite159002.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e2              { /* mywebsite159001.jpg */
+	position        : absolute;
+	left            : 506.25pt;
+	top             : 165.00pt;
+	width           : 202.50pt;
+	height          : 187.50pt;
+	}
+div#e1              { /* Avec ses 4 enfants en 19... */
+	position        : absolute;
+	left            : 517.50pt;
+	top             : 382.50pt;
+	width           : 197.25pt;
+	height          :  30.00pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

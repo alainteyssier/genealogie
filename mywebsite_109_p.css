@@ -1,0 +1,56 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc391              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc392              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e4              { /* mywebsite108003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e3              { /* mywebsite109001.jpg */
+	position        : absolute;
+	left            : 165.75pt;
+	top             : 105.75pt;
+	width           : 514.50pt;
+	height          : 324.00pt;
+	}
+div#e2              { /* Ceci est son acte de nai... */
+	position        : absolute;
+	left            : 298.50pt;
+	top             : 465.00pt;
+	width           : 270.75pt;
+	height          :  56.25pt;
+	}
+div#e1              { /* Née le 20 février 1859 à... */
+	position        : absolute;
+	left            : 210.00pt;
+	top             :  66.75pt;
+	width           : 427.50pt;
+	height          :  26.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

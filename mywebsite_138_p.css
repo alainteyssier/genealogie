@@ -1,0 +1,61 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc449              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc450              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc451              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e4              { /* mywebsite137003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+div#e3              { /* Elle est née le 5 juille... */
+	position        : absolute;
+	left            : 213.75pt;
+	top             : 131.25pt;
+	width           : 398.25pt;
+	height          :  38.25pt;
+	}
+img#e2              { /* mywebsite138001.jpg */
+	position        : absolute;
+	left            : 201.75pt;
+	top             : 240.00pt;
+	width           : 429.75pt;
+	height          : 141.00pt;
+	}
+div#e1              { /* Voici son acte de naissa... */
+	position        : absolute;
+	left            : 282.00pt;
+	top             : 420.75pt;
+	width           : 245.25pt;
+	height          :  20.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

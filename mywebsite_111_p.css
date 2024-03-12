@@ -1,0 +1,54 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc395              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc396              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc397              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+img#e3              { /* mywebsite111001.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+div#e2              { /* Elle était couturière lo... */
+	position        : absolute;
+	left            : 267.00pt;
+	top             : 159.00pt;
+	width           : 309.00pt;
+	height          :  20.25pt;
+	}
+div#e1              { /* Elle est décédée le 31 d... */
+	position        : absolute;
+	left            : 222.00pt;
+	top             : 255.00pt;
+	width           : 340.50pt;
+	height          :  56.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

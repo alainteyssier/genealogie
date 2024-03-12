@@ -1,0 +1,98 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc586              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc587              { /* Common */
+	font            : bold 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc588              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc589              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	}
+.cc590              { /* Common */
+	font            : italic 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e8              { /* mywebsite180001.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e7              { /* mywebsite007007.gif */
+	position        : absolute;
+	left            :  12.75pt;
+	top             : 144.75pt;
+	width           :  57.00pt;
+	height          :  30.75pt;
+	}
+div#e6              { /* MENU */
+	position        : absolute;
+	left            :  12.75pt;
+	top             : 152.25pt;
+	width           :  60.75pt;
+	height          :  17.25pt;
+	}
+img#e5              { /* mywebsite007004.gif */
+	position        : absolute;
+	left            :  13.50pt;
+	top             : 373.50pt;
+	width           :  70.50pt;
+	height          :  31.50pt;
+	}
+div#e4              { /* Ascendance */
+	position        : absolute;
+	left            :  16.50pt;
+	top             : 382.50pt;
+	width           :  60.00pt;
+	height          :  14.25pt;
+	}
+img#e3              { /* mywebsite007003.gif */
+	position        : absolute;
+	left            :  12.75pt;
+	top             : 421.50pt;
+	width           :  72.75pt;
+	height          :  31.50pt;
+	}
+div#e2              { /* Déscendance */
+	position        : absolute;
+	left            :  20.25pt;
+	top             : 429.00pt;
+	width           :  69.75pt;
+	height          :  15.00pt;
+	}
+div#e1              { /* N'oublions pas que l'éco... */
+	position        : absolute;
+	left            : 522.00pt;
+	top             : 177.75pt;
+	width           : 184.50pt;
+	height          :  92.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

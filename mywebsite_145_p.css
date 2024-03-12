@@ -1,0 +1,63 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc461              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc462              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e5              { /* mywebsite144002.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+div#e4              { /* Il est né le 8 octobre 1... */
+	position        : absolute;
+	left            : 249.75pt;
+	top             : 141.75pt;
+	width           : 260.25pt;
+	height          :  20.25pt;
+	}
+img#e3              { /* mywebsite145001.jpg */
+	position        : absolute;
+	left            : 231.00pt;
+	top             : 184.50pt;
+	width           : 293.25pt;
+	height          : 156.75pt;
+	}
+div#e2              { /* Acte de naissance  */
+	position        : absolute;
+	left            : 597.00pt;
+	top             : 252.75pt;
+	width           : 105.75pt;
+	height          :  38.25pt;
+	}
+div#e1              { /* Sur les actes officiels,... */
+	position        : absolute;
+	left            : 223.50pt;
+	top             : 422.25pt;
+	width           : 381.00pt;
+	height          :  56.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

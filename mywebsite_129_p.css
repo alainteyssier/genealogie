@@ -1,0 +1,103 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc434              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc435              { /* Common */
+	font            : italic bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc436              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e10             { /* mywebsite128003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+div#e9              { /* <DIV><FONT color="#ff000... */
+	position        : absolute;
+	left            : 191.25pt;
+	top             :  52.50pt;
+	width           : 383.25pt;
+	height          :  30.75pt;
+	}
+img#e8              { /* mywebsite129004.jpg */
+	position        : absolute;
+	left            : 146.25pt;
+	top             :  97.50pt;
+	width           : 237.00pt;
+	height          : 155.25pt;
+	}
+img#e7              { /* mywebsite129003.jpg */
+	position        : absolute;
+	left            : 495.00pt;
+	top             :  82.50pt;
+	width           : 130.50pt;
+	height          : 187.50pt;
+	}
+img#e6              { /* mywebsite129002.jpg */
+	position        : absolute;
+	left            : 168.75pt;
+	top             : 300.00pt;
+	width           : 182.25pt;
+	height          : 213.75pt;
+	}
+img#e5              { /* mywebsite129001.jpg */
+	position        : absolute;
+	left            : 461.25pt;
+	top             : 337.50pt;
+	width           : 215.25pt;
+	height          : 170.25pt;
+	}
+div#e4              { /* Le transport en 1854 */
+	position        : absolute;
+	left            : 191.25pt;
+	top             : 262.50pt;
+	width           : 180.75pt;
+	height          :  20.25pt;
+	}
+div#e3              { /* Naissance Arthur Rimbaud */
+	position        : absolute;
+	left            : 483.75pt;
+	top             : 277.50pt;
+	width           : 192.00pt;
+	height          :  20.25pt;
+	}
+div#e2              { /* La guerre de Crimée en i... */
+	position        : absolute;
+	left            : 157.50pt;
+	top             : 525.00pt;
+	width           : 225.75pt;
+	height          :  20.25pt;
+	}
+div#e1              { /* Les couturières bretonne... */
+	position        : absolute;
+	left            : 495.00pt;
+	top             : 517.50pt;
+	width           : 183.00pt;
+	height          :  20.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

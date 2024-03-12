@@ -1,0 +1,56 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc467              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc468              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e4              { /* mywebsite144002.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+div#e3              { /* Il est décédé le 23 avri... */
+	position        : absolute;
+	left            : 195.75pt;
+	top             : 139.50pt;
+	width           : 437.25pt;
+	height          :  74.25pt;
+	}
+img#e2              { /* mywebsite147001.jpg */
+	position        : absolute;
+	left            : 303.00pt;
+	top             : 271.50pt;
+	width           : 184.50pt;
+	height          : 153.00pt;
+	}
+div#e1              { /* acte de décès  */
+	position        : absolute;
+	left            : 339.75pt;
+	top             : 468.75pt;
+	width           : 118.50pt;
+	height          :  20.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

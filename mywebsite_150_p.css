@@ -1,0 +1,98 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc471              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc472              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e10             { /* mywebsite150005.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e9              { /* mywebsite150004.jpg */
+	position        : absolute;
+	left            : 113.25pt;
+	top             :  79.50pt;
+	width           : 217.50pt;
+	height          : 138.00pt;
+	}
+img#e8              { /* mywebsite150003.jpg */
+	position        : absolute;
+	left            : 399.75pt;
+	top             :  70.50pt;
+	width           : 219.75pt;
+	height          : 141.75pt;
+	}
+img#e7              { /* mywebsite150002.jpg */
+	position        : absolute;
+	left            : 122.25pt;
+	top             : 330.75pt;
+	width           : 195.75pt;
+	height          : 158.25pt;
+	}
+img#e6              { /* mywebsite150001.jpg */
+	position        : absolute;
+	left            : 381.00pt;
+	top             : 333.00pt;
+	width           : 323.25pt;
+	height          : 108.75pt;
+	}
+div#e5              { /* Acte de mariage entre Je... */
+	position        : absolute;
+	left            : 284.25pt;
+	top             : 269.25pt;
+	width           : 324.00pt;
+	height          :  38.25pt;
+	}
+div#e4              { /* 1  */
+	position        : absolute;
+	left            : 211.50pt;
+	top             : 234.75pt;
+	width           :  22.50pt;
+	height          :  20.25pt;
+	}
+div#e3              { /* 2  */
+	position        : absolute;
+	left            : 512.25pt;
+	top             : 221.25pt;
+	width           :  16.50pt;
+	height          :  20.25pt;
+	}
+div#e2              { /* 3 */
+	position        : absolute;
+	left            : 198.00pt;
+	top             : 510.75pt;
+	width           :  17.25pt;
+	height          :  20.25pt;
+	}
+div#e1              { /* 4 */
+	position        : absolute;
+	left            : 558.00pt;
+	top             : 482.25pt;
+	width           :  16.50pt;
+	height          :  20.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

@@ -1,0 +1,63 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc431              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc432              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+img#e5              { /* mywebsite127003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e4              { /* mywebsite127002.jpg */
+	position        : absolute;
+	left            : 129.75pt;
+	top             :  67.50pt;
+	width           : 159.75pt;
+	height          : 223.50pt;
+	}
+div#e3              { /* Concession dans le cimet... */
+	position        : absolute;
+	left            : 125.25pt;
+	top             : 297.75pt;
+	width           : 177.75pt;
+	height          :  56.25pt;
+	}
+img#e2              { /* mywebsite127001.jpg */
+	position        : absolute;
+	left            : 414.75pt;
+	top             :  78.75pt;
+	width           : 253.50pt;
+	height          : 197.25pt;
+	}
+div#e1              { /* Lettre de sa main du 26 ... */
+	position        : absolute;
+	left            : 427.50pt;
+	top             : 288.75pt;
+	width           : 234.75pt;
+	height          :  56.25pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

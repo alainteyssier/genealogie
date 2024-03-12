@@ -1,0 +1,58 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc389              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc390              { /* Common */
+	font            : 12pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	text-align      : center;
+	}
+img#e4              { /* mywebsite108003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+div#e3              { /* Née le 19 février 1859 à... */
+	position        : absolute;
+	left            : 157.50pt;
+	top             : 465.00pt;
+	width           : 261.75pt;
+	height          :  38.25pt;
+	}
+span#e2             { /* mywebsite108002.jpg */
+	background      : transparent url(mywebsite108002.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 146.25pt;
+	top             :  97.50pt;
+	width           : 270.75pt;
+	height          : 346.50pt;
+	}
+img#e1              { /* mywebsite108001.jpg */
+	position        : absolute;
+	left            : 450.00pt;
+	top             :  52.50pt;
+	width           : 214.50pt;
+	height          : 510.75pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/

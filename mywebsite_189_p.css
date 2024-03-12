@@ -1,0 +1,144 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc630              { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc631              { /* Common */
+	font            : bold 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc632              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	text-align      : center;
+	}
+.cc633              { /* Common */
+	font            : 9pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	}
+.cc634              { /* Common */
+	font            : 10pt 'Arial', Helvetica, sans-serif;
+	color           : #000000;
+	}
+.cc635              { /* Common */
+	font            : 10pt 'Times New Roman', Book, Georgia, serif;
+	color           : #000000;
+	}
+img#e14             { /* mywebsite189003.jpg */
+	position        : absolute;
+	left            :   1.50pt;
+	top             :   1.50pt;
+	width           : 744.00pt;
+	height          : 574.50pt;
+	}
+img#e13             { /* mywebsite007007.gif */
+	position        : absolute;
+	left            :  16.50pt;
+	top             : 144.00pt;
+	width           :  57.00pt;
+	height          :  30.75pt;
+	}
+div#e12             { /* MENU */
+	position        : absolute;
+	left            :  16.50pt;
+	top             : 151.50pt;
+	width           :  60.75pt;
+	height          :  17.25pt;
+	}
+img#e11             { /* mywebsite007004.gif */
+	position        : absolute;
+	left            :  12.00pt;
+	top             : 374.25pt;
+	width           :  70.50pt;
+	height          :  31.50pt;
+	}
+div#e10             { /* Ascendance */
+	position        : absolute;
+	left            :  15.00pt;
+	top             : 383.25pt;
+	width           :  60.00pt;
+	height          :  14.25pt;
+	}
+img#e9              { /* mywebsite007003.gif */
+	position        : absolute;
+	left            :   9.75pt;
+	top             : 422.25pt;
+	width           :  72.75pt;
+	height          :  31.50pt;
+	}
+div#e8              { /* Déscendance */
+	position        : absolute;
+	left            :  18.75pt;
+	top             : 429.75pt;
+	width           :  69.75pt;
+	height          :  15.00pt;
+	}
+img#e7              { /* mywebsite189002.jpg */
+	position        : absolute;
+	left            : 504.75pt;
+	top             : 413.25pt;
+	width           : 105.00pt;
+	height          :  94.50pt;
+	}
+div#e6              { /* lettre à son mari en 194... */
+	position        : absolute;
+	left            : 337.50pt;
+	top             : 375.00pt;
+	width           : 140.25pt;
+	height          :  18.00pt;
+	}
+div#e5              { /* Vidéo du 31/12/1994 */
+	position        : absolute;
+	left            : 209.25pt;
+	top             : 534.00pt;
+	width           : 118.50pt;
+	height          :  18.00pt;
+	}
+img#e4              { /* mywebsite189001.jpg */
+	position        : absolute;
+	left            : 203.25pt;
+	top             : 437.25pt;
+	width           : 126.75pt;
+	height          :  86.25pt;
+	}
+div#e3              { /* <DIV><FONT size="1">Dépa... */
+	position        : absolute;
+	left            : 516.00pt;
+	top             : 519.00pt;
+	width           : 133.50pt;
+	height          :  21.75pt;
+	}
+div#e2              { /* &nbsp;A Blacons, de gauc... */
+	position        : absolute;
+	left            : 528.75pt;
+	top             : 345.00pt;
+	width           : 200.25pt;
+	height          :  47.25pt;
+	}
+div#e1              { /* Sur le pont de la Drôme ... */
+	position        : absolute;
+	left            : 123.75pt;
+	top             : 390.00pt;
+	width           : 103.50pt;
+	height          :  37.50pt;
+	}
+div#page            { /* Page Holder */
+	background-color: #ffffff;
+	position        : relative;
+	width           : 745.50pt;
+	height          : 576.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	text-align      : center;
+	overflow        : scroll;
+	}
+
+
+
+/*--- EndOfFile ---*/
